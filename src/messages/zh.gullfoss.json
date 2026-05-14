@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "title": "古尔福斯自然保护区 Gullfoss Nature Reserve｜冰岛黄金瀑布 - 必访自然奇观",
+    "description": "冰岛古尔福斯自然保护区完整指南。了解开放时间、交通路线、门票价格、游览路线、拍照机位和住宿建议。冰岛黄金瀑布与自然奇观。"
+  },
+  "hero": {
+    "title": "古尔福斯自然保护区",
+    "subtitle": "冰岛黄金瀑布与自然奇观",
+    "rating": "4.8",
+    "reviewCount": "9,001 条真实评价",
+    "hours": "全天 24 小时开放",
+    "openMaps": "查看位置",
+    "bgImage": "/gallery/Gullfoss Nature Reserve_03.jpg"
+  },
+  "intro": {
+    "aboutTitle": "关于古尔福斯自然保护区",
+    "aboutText": "古尔福斯（Gullfoss，意为黄金瀑布）是冰岛最标志性、最受欢迎的自然景点之一，位于冰岛西南部的白河（Hvítá River）上。瀑布分两级跌落，总落差达32米，溅起的水雾在阳光下常形成绚丽的彩虹，因而得名黄金瀑布。",
+    "title": "探索冰岛的黄金瀑布",
+    "description": "古尔福斯是冰岛黄金圈（Golden Circle）的重要组成部分，与辛格维利尔国家公园（Thingvellir National Park）和盖歇尔地热区（Geysir）齐名。夏季时，冰川融水使瀑布流量达到峰值，景象极为壮观。\n\n古尔福斯这个名称意为黄金瀑布，既指水流在阳光照耀下呈现的金色光辉，也指晴天时水雾中常出现的彩虹。该瀑布作为自然保护区受到保护，确保其自然美景能够原汁原味地留给后代。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "建议清晨或傍晚到访，光线最佳，游客也较少",
+        "瀑布免费参观，全年全天开放",
+        "穿着防水衣物，夏季水雾很大，容易被打湿",
+        "不要错过通往上层观景台的小径"
+      ]
+    },
+    "highlights": {
+      "title": "景区特色",
+      "items": [
+        "壮观的两级瀑布，总落差达32米",
+        "冰岛著名黄金圈旅游路线的重要一站",
+        "晴天时水雾中常出现彩虹",
+        "受保护的自然保护区，步道维护良好"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "别名",
+      "items": [
+        "Gullfoss Waterfall",
+        "黄金瀑布",
+        "Gullfossfoss"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "古尔福斯自然保护区（Friðland við Gullfoss）",
+    "type": "景点类型",
+    "typeValue": "瀑布、自然保护区、黄金圈景点",
+    "country": "国家",
+    "countryValue": "冰岛",
+    "city": "地区 / 位置",
+    "cityValue": "冰岛南部，白河（Hvítá River）",
+    "googleRating": "谷歌评分",
+    "ratingValue": "4.8 (9,001 条真实评价)",
+    "phone": "联系电话",
+    "phoneValue": "+354 488 1777（冰岛旅游信息中心）",
+    "address": "地址",
+    "addressValue": "Gullfoss, 801 Selfoss, Iceland"
+  },
+  "hours": {
+    "title": "开放时间",
+    "fortress": "自然保护区与观景点",
+    "fortressDesc": "全年全天 24 小时开放，所有观景区域免费进入",
+    "fortressTime": "24 小时",
+    "cafe": "古尔福斯咖啡馆与游客中心",
+    "cafeDesc": "周一 - 周日（夏季：6月-8月）",
+    "cafeTime": "09:00-20:00",
+    "tip": "夏季瀑布水量最为壮观。冬季游览需注意小径结冰，请穿防滑鞋。",
+    "summer": "游客中心（夏季）",
+    "summerTime": "09:00 - 20:00",
+    "winter": "游客中心（冬季）",
+    "winterTime": "10:00 - 16:00",
+    "christmas": "瀑布观景区域",
+    "christmasTime": "24 小时（免费）",
+    "rosenborg": "步行小径",
+    "rosenborgTime": "24 小时（天气允许的情况下）"
+  },
+  "tickets": {
+    "title": "门票价格",
+    "fortress": "自然保护区与瀑布观景",
+    "free": "免费开放",
+    "fortressDesc": "古尔福斯瀑布及周围自然保护区免费开放，无需购票。",
+    "catacombs": "停车费",
+    "catacombsDesc": "设有大型停车场。汽车和旅游巴士需支付停车费。",
+    "catacombsNote": "汽车停车费约 750 冰岛克朗（约 5 欧元），残障游客免费停车。",
+    "garden": "瀑布观景与徒步",
+    "gardenPrice": "免费",
+    "rosenborg": "停车费",
+    "adults": "汽车",
+    "adultsPrice": "750 ISK（≈5 欧元）",
+    "students": "旅游巴士",
+    "studentsPrice": "2,500 ISK（≈18 欧元）",
+    "under17": "残障游客",
+    "under17Price": "免费",
+    "card": "导游服务",
+    "cardPrice": "价格因旅行社而异"
+  },
+  "transport": {
+    "title": "交通方式",
+    "walking": {
+      "title": "自驾（推荐）",
+      "badge": "推荐",
+      "desc": "从雷克雅未克出发，沿1号公路（环岛公路）行驶至35号公路即可抵达。单程约1.5-2小时，沿途风景优美，路标清晰，夏季适合所有车型。"
+    },
+    "bus": "公交 / 旅行团",
+    "car": {
+      "title": "公交 / 黄金圈旅行团",
+      "desc": "从雷克雅未克参加黄金圈一日游。许多旅行社都将古尔福斯作为重要一站。一日游通常在上午8-9点出发，晚上6-7点返回。"
+    },
+    "metro": "自驾（最灵活）",
+    "metroDesc": "从雷克雅未克出发：沿1号公路和35号公路行驶1.5-2小时。沿途可欣赏冰岛乡村美景。",
+    "train": "停车信息",
+    "trainDesc": "游客中心设有大型收费停车场。汽车停车费750 ISK。旺季（上午11点-下午3点）车位可能紧张。",
+    "busDesc": "从雷克雅未克出发的黄金圈巴士游，往返8-10小时。有多家旅行社可供选择。",
+    "taxi": "从凯夫拉维克机场（KEF）出发",
+    "taxiDesc": "从凯夫拉维克机场（KEF）出发：约140公里。建议在机场租车（推荐）或乘坐出租车/私人接送（非常昂贵，30,000+冰岛克朗）。",
+    "rideshare": "停车场",
+    "rideshareDesc": "游客中心设有大型停车场。汽车停车费750 ISK。残障游客免费停车。",
+    "cycling": "从停车场到观景点",
+    "cyclingDesc": "从停车场步行至主要观景点仅需5-10分钟。",
+    "fromStation": "从雷克雅未克出发",
+    "fromStationDesc": "约120公里。可自驾（1.5-2小时）、参加巴士旅行团（全天行程）或租车（最灵活）。",
+    "fromNyhavn": "从机场出发",
+    "fromNyhavnDesc": "从凯夫拉维克机场（KEF）：约140公里。建议在机场租车（推荐）或参加提供机场接送的黄金圈旅行团。"
+  },
+  "knowledge": {
+    "title": "古尔福斯的历史与文化",
+    "sections": [
+      {
+        "title": "历史意义",
+        "content": "古尔福斯自1979年起成为受保护的自然纪念碑。在20世纪初，曾有人计划利用瀑布进行水力发电，但得益于被誉为冰岛第一位环保活动家的西格里杜尔·托马斯多蒂尔（Sigríður Tómasdóttir）的努力，瀑布得以保存下来，留给后代欣赏。\n\n瀑布是白河（Hvítá River）的一部分，白河发源于朗格冰川（Langjökull）。水流量随季节变化，夏季冰川融化达到峰值时，水量最为壮观。"
+      },
+      {
+        "title": "地质特征",
+        "content": "古尔福斯分两级跌落：先是11米的落差，然后是21米的落差，最终流入狭窄的峡谷。瀑布总高度为32米。其名称来源于阳光照耀下水流呈现的金色光辉，以及晴天时水雾中经常出现的彩虹。\n\n瀑布的平均水流量为每秒109立方米，但夏季可达每秒130立方米。在晴朗的日子，数公里外就能看到瀑布溅起的水雾。"
+      },
+      {
+        "title": "文化与旅游价值",
+        "content": "古尔福斯是冰岛著名的黄金圈路线的重要一站，与辛格维利尔国家公园和盖歇尔地热区齐名。每年吸引数十万游客前来参观。\n\n该景点的开发充分考虑了可持续旅游，拥有维护良好的步道、观景台和游客中心，尊重自然环境。瀑布因其壮观的景色和彩虹效果，特别受摄影师欢迎。"
+      }
+    ]
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "建议安排半天或全天时间。如果走黄金圈，建议在游览盖歇尔地热区（约10分钟车程）之后前往古尔福斯。在景区停留1-2小时，从不同的观景点充分体验瀑布的魅力。",
+    "steps": [
+      "抵达停车场：支付停车费（汽车750冰岛克朗）",
+      "参观游客中心：使用洗手间，获取步行小径信息",
+      "上层观景台：步行至上层平台，俯瞰瀑布全景",
+      "下层步道：沿下层步道下行，近距离观看瀑布（可能被水雾打湿）",
+      "摄影：晴天时从上层平台捕捉彩虹效果",
+      "古尔福斯咖啡馆：在游客中心餐厅享用冰岛美食和热饮",
+      "纪念品购物：在礼品店浏览冰岛羊毛制品和纪念品"
+    ],
+    "tips": {
+      "title": "游览贴士",
+      "items": [
+        "穿着防水衣物——水雾可能很大，尤其是夏季",
+        "下层步道冬季可能因冰雪关闭",
+        "清晨和傍晚提供最佳摄影光线",
+        "可结合盖歇尔地热区（10分钟车程）和辛格维利尔国家公园，完成完整的黄金圈一日游"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "拍照机位",
+    "spots": [
+      {
+        "name": "上层观景台",
+        "desc": "捕捉瀑布全景，以峡谷为背景。最适合广角拍摄。"
+      },
+      {
+        "name": "下层步道",
+        "desc": "近距离观看瀑布，捕捉水雾和彩虹。建议使用防水相机。"
+      },
+      {
+        "name": "峡谷边缘侧面角度",
+        "desc": "独特视角，展现瀑布冲入狭窄峡谷的力量感。"
+      },
+      {
+        "name": "晴天捕捉彩虹",
+        "desc": "晴天时站在上层平台，捕捉水雾中的彩虹。"
+      }
+    ],
+    "tips": "清晨和傍晚提供最佳光线。晴天时，水雾中几乎肯定会出现彩虹。前往下层步道时，务必使用防水相机或手机保护套。"
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "古尔福斯酒店（附近）",
+        "desc": "距离古尔福斯约10分钟车程的舒适酒店。提供舒适的客房，可轻松前往黄金圈路线。",
+        "price": "约 €120-200/晚"
+      },
+      {
+        "name": "塞尔福斯镇住宿（30分钟车程）",
+        "desc": "塞尔福斯是最近的城镇，提供各种住宿选择，从经济型宾馆到中档酒店应有尽有。",
+        "price": "约 €80-150/晚"
+      },
+      {
+        "name": "雷克雅未克（2小时车程）",
+        "desc": "首都提供最广泛的住宿选择。适合那些打算一日游黄金圈的游客。",
+        "price": "约 €100-300/晚"
+      }
+    ],
+    "exitWarning": "古尔福斯附近的住宿有限。大多数游客选择住在雷克雅未克、塞尔福斯或惠拉盖尔济，然后一日游黄金圈。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "古尔福斯瀑布与周围自然风光",
+    "captions": [
+      "瀑布全景",
+      "上层观景点",
+      "水雾与彩虹",
+      "下层步道",
+      "峡谷景观",
+      "瀑布特写",
+      "夏季水流",
+      "冬季冰封"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
+    "photos": [
+      { "src": "/gallery/Gullfoss Nature Reserve_01.jpg", "alt": "瀑布全景" },
+      { "src": "/gallery/Gullfoss Nature Reserve_02.jpg", "alt": "上层观景点" },
+      { "src": "/gallery/Gullfoss Nature Reserve_03.jpg", "alt": "水雾与彩虹" },
+      { "src": "/gallery/Gullfoss Nature Reserve_04.jpg", "alt": "下层步道" },
+      { "src": "/gallery/Gullfoss Nature Reserve_05.jpg", "alt": "峡谷景观" },
+      { "src": "/gallery/Gullfoss Nature Reserve_06.jpg", "alt": "瀑布特写" },
+      { "src": "/gallery/Gullfoss Nature Reserve_07.jpg", "alt": "夏季水流" },
+      { "src": "/gallery/Gullfoss Nature Reserve_09.jpg", "alt": "冬季景色" },
+      { "src": "/gallery/Gullfoss Nature Reserve_10.jpg", "alt": "彩虹效果" },
+      { "src": "/gallery/Gullfoss Nature Reserve_11.jpg", "alt": "白河" },
+      { "src": "/gallery/Gullfoss Nature Reserve_12.jpg", "alt": "游客中心" },
+      { "src": "/gallery/Gullfoss Nature Reserve_13.jpg", "alt": "步行小径" },
+      { "src": "/gallery/Gullfoss Nature Reserve_14.jpg", "alt": "全景视图" },
+      { "src": "/gallery/Gullfoss Nature Reserve_15.jpg", "alt": "瀑布力量" },
+      { "src": "/gallery/Gullfoss Nature Reserve_16.jpg", "alt": "冰岛景观" },
+      { "src": "/gallery/Gullfoss Nature Reserve_17.jpg", "alt": "水雾氛围" },
+      { "src": "/gallery/Gullfoss Nature Reserve_18.jpg", "alt": "黄金圈" },
+      { "src": "/gallery/Gullfoss Nature Reserve_19.jpg", "alt": "自然保护区" },
+      { "src": "/gallery/Gullfoss Nature Reserve_20.jpg", "alt": "瀑布日落" }
+    ]
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "张明",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "绝对令人叹为观止！古尔福斯的力量和美丽无法用语言描述。晴天时水雾中形成的彩虹简直完美。"
+      },
+      {
+        "name": "李华",
+        "date": "2026年3月",
+        "rating": 5,
+        "text": "黄金圈路线必访景点。步道维护得很好，可以从不同角度欣赏瀑布。"
+      },
+      {
+        "name": "王芳",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "冬季参观时部分区域结冰——完全不同的体验，同样神奇。记得穿暖和些！"
+      },
+      {
+        "name": "陈伟",
+        "date": "2026年1月",
+        "rating": 4,
+        "text": "壮观的瀑布，而且免费！停车费很合理。早点去避开旅游巴士人群。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "Gullfoss, 801 Selfoss, Iceland",
+    "openMaps": "在 Google Maps 查看",
+    "openMapsUrl": "https://maps.app.goo.gl/Pt6jzyoZiDGNiKtT7",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.5714285714284!2d-20.2988!3d64.3282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d7168f9a6f8e6b%3A0x8b8b8b8b8b8b8b8b!2sGullfoss!5e0!3m2!1sen!2sis!4v1700000000000!5m2!1sen!2sis"
+  },
+  "footer": {
+    "logo": "古尔福斯自然保护区",
+    "rights": "© 2026 古尔福斯自然保护区独立游客指南。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "disclaimer": "免责声明：本网站为独立运营的游客指南，与冰岛旅游局、Visit Iceland及古尔福斯自然保护区官方管理机构无任何隶属关系。本站提供的信息仅供旅行参考，开放时间及条件可能随季节变化，建议出行前通过官方渠道进行核实。",
+    "officialResourcesTitle": "官方旅游资源",
+    "officialLinks": {
+      "council": "冰岛旅游局",
+      "tourism": "Visit Iceland 官方",
+      "england": "冰岛环境局"
+    }
+  },
+  "officialManagement": {
+    "title": "关于古尔福斯自然保护区",
+    "text": "古尔福斯自然保护区是冰岛最标志性自然景点之一，自1979年起受到保护。瀑布是白河（Hvítá River）的一部分，也是黄金圈路线的重要一站，吸引着来自世界各地的游客。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图集",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术、您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求、遵守我们的法律义务。"
+      },
+      {
+        "heading": "第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对治疗、向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年3月",
+    "sections": [
+      {
+        "heading": "内容使用",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "责任限制",
+        "content": "本网站按\"现状\"提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年3月。我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "alwaysActive": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。"
+    },
+    "preferences": {
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。保存您的语言偏好和网站设置。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。它可以根据你的兴趣为你展示相关的广告。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "save": "保存偏好设置",
+    "rejectAll": "拒绝一切",
+    "saved": "设置已保存！"
+  }
+}

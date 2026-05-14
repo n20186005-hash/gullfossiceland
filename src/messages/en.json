@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "title": "Gullfoss Nature Reserve｜Icelandic Golden Waterfall - A Must-Visit Natural Wonder",
+    "description": "Complete guide to Gullfoss Nature Reserve in Iceland. Learn about opening hours, transportation, tickets, tour routes, photo spots and accommodation. The iconic golden waterfall on the Hvítá River."
+  },
+  "hero": {
+    "title": "Gullfoss Nature Reserve",
+    "subtitle": "Icelandic Golden Waterfall and Natural Wonder",
+    "rating": "4.8",
+    "reviewCount": "9,001 real reviews",
+    "hours": "Open 24 Hours",
+    "openMaps": "View Location",
+    "bgImage": "/gallery/Gullfoss Nature Reserve_03.jpg"
+  },
+  "intro": {
+    "aboutTitle": "About Gullfoss Nature Reserve",
+    "aboutText": "Gullfoss (Golden Falls) is one of Iceland's most iconic and beloved natural attractions, located on the Hvítá River in the southwest of Iceland. The waterfall cascades down in two stages, with a total height of 32 meters, creating a spectacular golden mist that gives it its name.",
+    "title": "Discover the Golden Waterfall of Iceland",
+    "description": "Gullfoss is part of the famous Golden Circle route, alongside Thingvellir National Park and the Geysir geothermal area. The waterfall is particularly impressive during the summer months when the glacial meltwater creates a powerful flow.\n\nThe name 'Gullfoss' translates to 'Golden Falls' in English, referring to the golden hue of the water and the rainbow that often appears in the mist on sunny days. The waterfall is protected as a nature reserve, ensuring its natural beauty remains unspoiled for future generations.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Visit early morning or late afternoon for the best lighting and fewer crowds",
+        "The waterfall is free to visit and accessible year-round",
+        "Wear waterproof clothing as the mist can be intense, especially in summer",
+        "Don't miss the walking path that leads to the upper observation platform"
+      ]
+    },
+    "highlights": {
+      "title": "Highlights",
+      "items": [
+        "Spectacular two-tiered waterfall with a total drop of 32 meters",
+        "Part of Iceland's famous Golden Circle tourist route",
+        "Rainbow often visible in the mist on sunny days",
+        "Protected nature reserve with well-maintained walking paths"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Also Known As",
+      "items": [
+        "Gullfoss Waterfall",
+        "Golden Falls",
+        "Gullfossfoss"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Gullfoss Nature Reserve (Friðland við Gullfoss)",
+    "type": "Attraction Type",
+    "typeValue": "Waterfall, Nature Reserve, Golden Circle Attraction",
+    "country": "Country",
+    "countryValue": "Iceland",
+    "city": "Region / Location",
+    "cityValue": "South Iceland, Hvítá River",
+    "googleRating": "Google Rating",
+    "ratingValue": "4.8 (9,001 real reviews)",
+    "phone": "Phone",
+    "phoneValue": "+354 488 1777 (Iceland Tourist Info)",
+    "address": "Address",
+    "addressValue": "Gullfoss, 801 Selfoss, Iceland"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "fortress": "Nature Reserve & Viewing Platforms",
+    "fortressDesc": "Open 24 hours, 7 days a week, free access to all viewing areas",
+    "fortressTime": "24 Hours",
+    "cafe": "Gullfoss Café & Visitor Center",
+    "cafeDesc": "Monday - Sunday (Summer: June-August)",
+    "cafeTime": "09:00-20:00",
+    "tip": "Summer offers the most impressive water flow. Winter visits require caution due to icy paths.",
+    "summer": "Visitor Center (Summer)",
+    "summerTime": "09:00 - 20:00",
+    "winter": "Visitor Center (Winter)",
+    "winterTime": "10:00 - 16:00",
+    "christmas": "Waterfall Viewing Areas",
+    "christmasTime": "24 Hours (Free)",
+    "rosenborg": "Walking Paths",
+    "rosenborgTime": "24 Hours (Weather Permitting)"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "fortress": "Nature Reserve & Waterfall Viewing",
+    "free": "Free Admission",
+    "fortressDesc": "Gullfoss waterfall and surrounding nature reserve are free to visit, no ticket required.",
+    "catacombs": "Parking Fee",
+    "catacombsDesc": "Large parking area available. Parking fee applies for cars and tour buses.",
+    "catacombsNote": "Approximately 750 ISK for cars (about 5 EUR), free for disabled visitors.",
+    "garden": "Waterfall Viewing & Hiking",
+    "gardenPrice": "Free",
+    "rosenborg": "Parking Fee",
+    "adults": "Cars",
+    "adultsPrice": "750 ISK (≈5 EUR)",
+    "students": "Tour Buses",
+    "studentsPrice": "2,500 ISK (≈18 EUR)",
+    "under17": "Disabled Visitors",
+    "under17Price": "Free",
+    "card": "Guided Tours",
+    "cardPrice": "Varies by tour operator"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "walking": {
+      "title": "By Car (Recommended)",
+      "badge": "Recommended",
+      "desc": "Drive from Reykjavík via Route 1 (Ring Road) then Route 35. The journey takes about 1.5-2 hours each way. Well-signposted and suitable for all vehicle types in summer."
+    },
+    "bus": {
+      "title": "By Bus / Tour",
+      "desc": "Join a Golden Circle tour from Reykjavík. Many tour operators include Gullfoss as a key stop. Day tours typically depart at 8-9 AM and return at 6-7 PM."
+    },
+    "car": {
+      "title": "Parking",
+      "desc": "Large paid parking lot at the visitor center. 750 ISK for cars. Can get busy in peak season (11 AM - 3 PM). Free for disabled visitors."
+    },
+    "fromReykjavik": {
+      "title": "From Reykjavík",
+      "desc": "About 120 km from Reykjavík. By car (1.5-2 hours), by bus tour (full-day trip), or by rental car (most flexible)."
+    },
+    "fromAirport": {
+      "title": "From Keflavík Airport (KEF)",
+      "desc": "From KEF Airport: About 140 km away. Rent a car at the airport (recommended) or take a taxi/private transfer (very expensive, 30,000+ ISK). Alternatively, join a Golden Circle tour that includes airport pickup."
+    }
+  },
+  "knowledge": {
+    "title": "The History & Culture of Gullfoss",
+    "sections": [
+      {
+        "title": "Historical Significance",
+        "content": "Gullfoss has been a protected natural monument since 1979. In the early 20th century, there were plans to harness the waterfall for hydroelectric power, but thanks to the efforts of Sigríður Tómasdóttir, often considered Iceland's first environmental activist, the waterfall was preserved for future generations.\n\nThe waterfall is part of the Hvítá River, which originates from the Langjökull glacier. The water flow varies seasonally, with peak flow during the summer months when glacial melting is at its maximum."
+      },
+      {
+        "title": "Geological Features",
+        "content": "Gullfoss cascades down in two stages: first a 11-meter drop, then a 21-meter drop into a narrow canyon. The total height is 32 meters. The waterfall's name comes from the golden hue of the water and the rainbow that often appears in the mist on sunny days.\n\nThe average water flow is 109 cubic meters per second, but during summer it can reach up to 130 cubic meters per second. The mist from the waterfall can be seen from several kilometers away on clear days."
+      },
+      {
+        "title": "Cultural & Tourism Value",
+        "content": "Gullfoss is one of the key stops on Iceland's famous Golden Circle route, alongside Thingvellir National Park and the Geysir geothermal area. It attracts hundreds of thousands of visitors each year.\n\nThe site has been developed with sustainable tourism in mind, featuring well-maintained paths, viewing platforms, and a visitor center that respects the natural environment. The waterfall is particularly popular among photographers for its dramatic scenery and rainbow effects."
+      }
+    ]
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "A half-day or full-day trip is recommended. If doing the Golden Circle, visit Gullfoss after Geysir (about 10 minutes drive). Spend 1-2 hours at the site to fully experience the waterfall from different viewpoints.",
+    "steps": [
+      "Arrive at the parking lot: Pay parking fee (750 ISK for cars)",
+      "Visit the visitor center: Use restrooms and get information about walking paths",
+      "Upper viewpoint: Walk to the upper platform for a panoramic view of the waterfall",
+      "Lower pathway: Descend to the lower walking path for a closer view (can get wet from mist)",
+      "Photography: Capture the rainbow effect on sunny days from the upper platform",
+      "Gullfoss Café: Enjoy Icelandic food and hot drinks at the visitor center restaurant",
+      "Souvenir shopping: Browse the gift shop for Icelandic wool products and souvenirs"
+    ],
+    "tips": {
+      "title": "Travel Tips",
+      "items": [
+        "Wear waterproof clothing - the mist can be intense, especially in summer",
+        "The lower walking path may be closed in winter due to ice and snow",
+        "Morning and late afternoon offer the best lighting for photography",
+        "Combine with Geysir (10 mins away) and Thingvellir for a full Golden Circle day trip"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Upper Viewing Platform",
+        "desc": "Capture the full waterfall with the canyon in the background. Best for wide-angle shots."
+      },
+      {
+        "name": "Lower Walking Path",
+        "desc": "Get close to the waterfall and capture the mist and rainbows. Waterproof camera recommended."
+      },
+      {
+        "name": "Side Angle from the Canyon Edge",
+        "desc": "Unique perspective showing the waterfall's power as it crashes into the narrow canyon."
+      },
+      {
+        "name": "Rainbow Capture on Sunny Days",
+        "desc": "Position yourself at the upper platform on sunny days to capture rainbows in the mist."
+      }
+    ],
+    "tips": "Morning and late afternoon provide the best lighting. On sunny days, rainbows are almost guaranteed in the mist. A waterproof camera or phone case is essential for the lower path."
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Hotel Gullfoss (Nearby)",
+        "desc": "A cozy hotel about 10 minutes from Gullfoss. Offers comfortable rooms and easy access to the Golden Circle route.",
+        "price": "€120-200/night"
+      },
+      {
+        "name": "Guesthouses in Selfoss (30 mins away)",
+        "desc": "Selfoss is the nearest town with various accommodation options, from budget guesthouses to mid-range hotels.",
+        "price": "€80-150/night"
+      },
+      {
+        "name": "Reykjavík (2 hours away)",
+        "desc": "The capital offers the widest range of accommodation. Ideal for those doing day trips to the Golden Circle.",
+        "price": "€100-300/night"
+      }
+    ],
+    "exitWarning": "Accommodation near Gullfoss is limited. Most visitors stay in Reykjavík, Selfoss, or Hveragerði and do day trips to the Golden Circle."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Gullfoss Waterfall & Surrounding Nature",
+    "captions": [
+      "Waterfall Overview",
+      "Upper Viewing Platform",
+      "Mist and Rainbow",
+      "Lower Walking Path",
+      "Canyon View",
+      "Waterfall Close-up",
+      "Summer Flow",
+      "Winter Frozen"
+    ],
+    "viewAll": "View on Google Maps",
+    "photos": [
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_01.jpg",
+        "alt": "Waterfall Panorama"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_02.jpg",
+        "alt": "Upper Viewpoint"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_03.jpg",
+        "alt": "Mist and Rainbow"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_04.jpg",
+        "alt": "Lower Path"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_05.jpg",
+        "alt": "Canyon View"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_06.jpg",
+        "alt": "Waterfall Close-up"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_07.jpg",
+        "alt": "Summer Flow"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_09.jpg",
+        "alt": "Winter Scene"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_10.jpg",
+        "alt": "Rainbow Effect"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_11.jpg",
+        "alt": "Hvítá River"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_12.jpg",
+        "alt": "Visitor Center"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_13.jpg",
+        "alt": "Walking Path"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_14.jpg",
+        "alt": "Panoramic View"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_15.jpg",
+        "alt": "Waterfall Power"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_16.jpg",
+        "alt": "Icelandic Landscape"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_17.jpg",
+        "alt": "Misty Atmosphere"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_18.jpg",
+        "alt": "Golden Circle"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_19.jpg",
+        "alt": "Nature Reserve"
+      },
+      {
+        "src": "/gallery/Gullfoss Nature Reserve_20.jpg",
+        "alt": "Waterfall Sunset"
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "John D.",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Absolutely breathtaking! The power and beauty of Gullfoss is indescribable. The mist on a sunny day creates perfect rainbows."
+      },
+      {
+        "name": "Emma S.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "A must-visit on the Golden Circle route. The walking paths are well-maintained and offer different perspectives of the waterfall."
+      },
+      {
+        "name": "Michael R.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "Visited in winter when parts were frozen - a completely different but equally magical experience. Dress warmly!"
+      },
+      {
+        "name": "Sarah L.",
+        "date": "January 2026",
+        "rating": 4,
+        "text": "Spectacular waterfall and it's free! The parking fee is reasonable. Go early to avoid the tour bus crowds."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Gullfoss, 801 Selfoss, Iceland",
+    "openMaps": "View on Google Maps",
+    "openMapsUrl": "https://maps.app.goo.gl/Pt6jzyoZiDGNiKtT7",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.5714285714284!2d-20.2988!3d64.3282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d7168f9a6f8e6b%3A0x8b8b8b8b8b8b8b8b!2sGullfoss!5e0!3m2!1sen!2sis!4v1700000000000!5m2!1sen!2sis"
+  },
+  "footer": {
+    "logo": "Gullfoss Nature Reserve",
+    "rights": "© 2026 Independent Visitor Guide to Gullfoss Nature Reserve. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "disclaimer": "Disclaimer: This website is an independent visitor guide and is not affiliated with the Icelandic Tourist Board, Visit Iceland, or the official management of Gullfoss Nature Reserve. Information provided is for travel reference only. Opening hours and conditions may vary by season. We recommend verifying with official sources before your visit.",
+    "officialResourcesTitle": "Official Tourism Resources",
+    "officialLinks": {
+      "council": "Icelandic Tourist Board",
+      "tourism": "Visit Iceland Official",
+      "england": "Icelandic Environment Agency"
+    }
+  },
+  "officialManagement": {
+    "title": "About Gullfoss Nature Reserve",
+    "text": "Gullfoss Nature Reserve is one of Iceland's most iconic natural attractions, protected since 1979. The waterfall is part of the Hvítá River and is a key stop on the Golden Circle route, attracting visitors from around the world."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": "We only collect the minimum amount of data necessary to provide our services. This data may include: browsing data (IP address, browser type, pages visited), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: March 2026",
+    "sections": [
+      {
+        "heading": "Content Usage",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. All content on this website is for informational purposes only. We are an independent third-party travel information website, unaffiliated with any tourist attraction, government agency, or commercial operator."
+      },
+      {
+        "heading": "Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Please verify important information through official channels before your trip."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used with permission. The use of Google Maps data complies with Google's Terms of Service."
+      },
+      {
+        "heading": "Limitation of Liability",
+        "content": "This website is provided 'as is' without any warranties. We are not responsible for any losses incurred from the use of information on this website, including but not limited to travel decisions made based on the content of this site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: March 2026. We use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "alwaysActive": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data."
+    },
+    "preferences": {
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences. Save your language preferences and website settings."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to display relevant ads and measure the effectiveness of advertising campaigns. They can show you relevant ads based on your interests."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling some cookies may affect the functionality of the website.",
+    "save": "Save Preferences",
+    "rejectAll": "Reject All",
+    "saved": "Settings Saved!"
+  }
+}
