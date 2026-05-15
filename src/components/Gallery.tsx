@@ -5,7 +5,8 @@ import { useState, useCallback } from 'react';
 
 export default function Gallery() {
   const t = useTranslations('gallery');
-  const messages = useMessages();
+  const tMap = useTranslations('mapSection');
+  const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(0);
@@ -107,7 +108,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/b1AbhMTMrkztvPqg9"
+              href={tMap('openMapsUrl')}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

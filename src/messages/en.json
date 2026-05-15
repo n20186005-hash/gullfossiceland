@@ -47,19 +47,17 @@
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Gullfoss Nature Reserve (Friðland við Gullfoss)",
+    "officialNameValue": "Golden Falls / Gullfoss (Friðland við Gullfoss)",
     "type": "Attraction Type",
-    "typeValue": "Waterfall, Nature Reserve, Golden Circle Attraction",
+    "typeValue": "Two-tiered Waterfall, Nature Reserve, Core Golden Circle Attraction, Iconic Icelandic Natural Wonder, Free Viewing Area, Canyon Landscape, Historical Protected Area",
     "country": "Country",
     "countryValue": "Iceland",
     "city": "Region / Location",
-    "cityValue": "South Iceland, Hvítá River",
+    "cityValue": "Southwest Iceland, Golden Circle Route, Upper Hvítá River, Downstream from Langjökull Glacier",
     "googleRating": "Google Rating",
     "ratingValue": "4.8 (9,001 real reviews)",
-    "phone": "Phone",
-    "phoneValue": "+354 488 1777 (Iceland Tourist Info)",
     "address": "Address",
-    "addressValue": "Gullfoss, 801 Selfoss, Iceland"
+    "addressValue": "Gullfoss, Bláskógabyggð, 806 Selfoss, Iceland"
   },
   "hours": {
     "title": "Opening Hours",
@@ -101,27 +99,22 @@
   },
   "transport": {
     "title": "How to Get Here",
-    "walking": {
-      "title": "By Car (Recommended)",
-      "badge": "Recommended",
-      "desc": "Drive from Reykjavík via Route 1 (Ring Road) then Route 35. The journey takes about 1.5-2 hours each way. Well-signposted and suitable for all vehicle types in summer."
-    },
-    "bus": {
-      "title": "By Bus / Tour",
-      "desc": "Join a Golden Circle tour from Reykjavík. Many tour operators include Gullfoss as a key stop. Day tours typically depart at 8-9 AM and return at 6-7 PM."
-    },
-    "car": {
-      "title": "Parking",
-      "desc": "Large paid parking lot at the visitor center. 750 ISK for cars. Can get busy in peak season (11 AM - 3 PM). Free for disabled visitors."
-    },
-    "fromReykjavik": {
-      "title": "From Reykjavík",
-      "desc": "About 120 km from Reykjavík. By car (1.5-2 hours), by bus tour (full-day trip), or by rental car (most flexible)."
-    },
-    "fromAirport": {
-      "title": "From Keflavík Airport (KEF)",
-      "desc": "From KEF Airport: About 140 km away. Rent a car at the airport (recommended) or take a taxi/private transfer (very expensive, 30,000+ ISK). Alternatively, join a Golden Circle tour that includes airport pickup."
-    }
+    "metro": "No Metro",
+    "metroDesc": "There is no metro system in Iceland. Gullfoss is located in the countryside with no metro access.",
+    "train": "No Trains",
+    "trainDesc": "Iceland has no public railway network, so there are no train lines to Gullfoss.",
+    "bus": "No Direct Bus; Tour Buses Available",
+    "busDesc": "No direct public buses. You can join a Golden Circle day tour bus from Reykjavík, which includes the waterfall, Geysir, and Thingvellir, operating year-round.",
+    "taxi": "Taxi (Reykjavík Charter)",
+    "taxiDesc": "Chartering a taxi from Reykjavík takes about 2-3 hours round trip (approx. 117 km one way). It's expensive and best for groups to share the cost.",
+    "rideshare": "No Standard Rideshare",
+    "rideshareDesc": "No reliable rideshare services in rural Iceland. Limited availability in Reykjavík, but cannot be booked for intercity trips to the waterfall.",
+    "cycling": "Cycling (Extreme)",
+    "cyclingDesc": "You can cycle along Route 1 / Route 35 (approx. 117 km one way). Long distance, strong winds, and severe winter cold make it suitable only for professionals.",
+    "fromStation": "From Reykjavík City / Airport",
+    "fromStationDesc": "From downtown Reykjavík or Keflavík Airport, drive about 1.5-2 hours via Route 1 then Route 35. Good road conditions year-round (4WD needed in winter).",
+    "fromNyhavn": "From Reykjavík Old Harbour (Nyhavn)",
+    "fromNyhavnDesc": "Drive or join a tour from Reykjavík Old Harbour (Nyhavn), about 1.5 hours direct. It is a classic starting point for the Golden Circle."
   },
   "knowledge": {
     "title": "The History & Culture of Gullfoss",
@@ -331,9 +324,9 @@
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "Gullfoss, 801 Selfoss, Iceland",
+    "subtitle": "Gullfoss, Bláskógabyggð, 806 Selfoss, Iceland",
     "openMaps": "View on Google Maps",
-    "openMapsUrl": "https://maps.app.goo.gl/Pt6jzyoZiDGNiKtT7",
+    "openMapsUrl": "https://maps.app.goo.gl/FKUpAyktZua15RVK8",
     "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.5714285714284!2d-20.2988!3d64.3282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d7168f9a6f8e6b%3A0x8b8b8b8b8b8b8b8b!2sGullfoss!5e0!3m2!1sen!2sis!4v1700000000000!5m2!1sen!2sis"
   },
   "footer": {
@@ -345,9 +338,11 @@
     "disclaimer": "Disclaimer: This website is an independent visitor guide and is not affiliated with the Icelandic Tourist Board, Visit Iceland, or the official management of Gullfoss Nature Reserve. Information provided is for travel reference only. Opening hours and conditions may vary by season. We recommend verifying with official sources before your visit.",
     "officialResourcesTitle": "Official Tourism Resources",
     "officialLinks": {
-      "council": "Icelandic Tourist Board",
-      "tourism": "Visit Iceland Official",
-      "england": "Icelandic Environment Agency"
+      "environment": "Environment Agency of Iceland (National)",
+      "south": "Visit South Iceland (Regional)",
+      "municipality": "Bláskógabyggð Municipality (Local)",
+      "sarpur": "Sarpur Cultural Heritage Database",
+      "waterfall": "World Waterfall Database"
     }
   },
   "officialManagement": {

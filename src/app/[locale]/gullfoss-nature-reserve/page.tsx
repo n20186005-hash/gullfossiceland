@@ -6,10 +6,11 @@ import GullfossIntro from '@/components/GullfossIntro';
 import GullfossBasicInfo from '@/components/GullfossBasicInfo';
 import GullfossHoursSection from '@/components/GullfossHoursSection';
 import GullfossTicketsSection from '@/components/GullfossTicketsSection';
-import GullfossTransportSection from '@/components/GullfossTransportSection';
+import TransportSection from '@/components/TransportSection';
 import GullfossInfoSection from '@/components/GullfossInfoSection';
 import GullfossRouteSection from '@/components/GullfossRouteSection';
 import GullfossPhotoSpotsSection from '@/components/GullfossPhotoSpotsSection';
+import HotelsSection from '@/components/HotelsSection';
 import GullfossGallery from '@/components/GullfossGallery';
 import GullfossReviews from '@/components/GullfossReviews';
 import GullfossMapEmbed from '@/components/GullfossMapEmbed';
@@ -33,10 +34,11 @@ export default async function GullfossPage({
         <GullfossBasicInfo />
         <GullfossHoursSection />
         <GullfossTicketsSection />
-        <GullfossTransportSection />
+        <TransportSection />
         <GullfossInfoSection />
         <GullfossRouteSection />
         <GullfossPhotoSpotsSection />
+        <HotelsSection />
         <GullfossGallery />
         <GullfossReviews />
         <GullfossMapEmbed />

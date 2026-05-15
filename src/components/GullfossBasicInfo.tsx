@@ -50,13 +50,7 @@ export default function GullfossBasicInfo() {
             </div>
           </div>
 
-          {/* Phone */}
-          <div className="p-5 rounded-xl" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
-            <p className="text-sm mb-2" style={{ color: 'var(--text-muted)' }}>{t('phone')}</p>
-            <a href="tel:+3544881777" className="font-medium hover:underline" style={{ color: 'var(--accent)' }}>
-              {t('phoneValue')}
-            </a>
-          </div>
+
         </div>
 
         {/* Address */}

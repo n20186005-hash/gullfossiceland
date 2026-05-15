@@ -6,6 +6,7 @@ export default function HotelsSection() {
   const t = useTranslations('hotels');
   const messages = useMessages() as any;
   const hotels = (messages?.hotels?.hotels || []) as Array<{ name: string; desc: string; price: string }>;
+  const exitWarning = messages?.hotels?.exitWarning;
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -17,6 +18,19 @@ export default function HotelsSection() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
+
+        {exitWarning && (
+          <div className="mb-8 p-4 rounded-lg bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800">
+            <div className="flex items-start gap-3">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#d97706" strokeWidth="2" className="mt-0.5 flex-shrink-0">
+                <circle cx="12" cy="12" r="10" />
+                <line x1="12" y1="8" x2="12" y2="12" />
+                <line x1="12" y1="16" x2="12.01" y2="16" />
+              </svg>
+              <p className="text-sm text-amber-800 dark:text-amber-200">{exitWarning}</p>
+            </div>
+          </div>
+        )}
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {hotels.map((hotel, index) => (

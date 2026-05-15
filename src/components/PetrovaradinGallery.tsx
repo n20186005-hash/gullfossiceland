@@ -22,6 +22,7 @@ const photos = [
 
 export default function PetrovaradinGallery() {
   const t = useTranslations('gallery');
+  const tMap = useTranslations('mapSection');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(0);
@@ -120,7 +121,7 @@ export default function PetrovaradinGallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/tBYxnMmu8qMX3yGa6"
+                href="https://maps.app.goo.gl/FKUpAyktZua15RVK8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"
