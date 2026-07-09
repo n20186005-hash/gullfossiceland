@@ -3,6 +3,9 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
+import GoogleAnalytics from '@/components/GoogleAnalytics';
+import { getHomeSeo, getHtmlLang, siteConfig } from '@/lib/site';
+import { Suspense } from 'react';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -14,34 +17,23 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  
-  // 加载 Saint Naum Monastery 的翻译文件
-  const messages = (await import(`@/messages/${locale}.json`)).default;
-  
-  const baseUrl = 'https://stnaummonastery.com'; // 请替换为实际域名
-
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const seo = getHomeSeo(locale as any);
 
   return {
-    title: messages.meta.title,
-    description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
-      },
-    },
+    metadataBase: new URL(siteConfig.url),
+    title: seo.title,
+    description: seo.description,
     openGraph: {
-      title: messages.meta.title,
-      description: messages.meta.description,
-      url: selfUrl,
-      siteName: "St. Naum Monastery",
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
+      title: seo.title,
+      description: seo.description,
+      url: `${siteConfig.url}/${locale}`,
+      siteName: siteConfig.guideName,
       type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: seo.title,
+      description: seo.description,
     },
   };
 }
@@ -63,10 +55,8 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={getHtmlLang(locale)} suppressHydrationWarning>
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -83,6 +73,9 @@ export default async function LocaleLayout({
         />
       </head>
       <body className="min-h-screen">
+        <Suspense fallback={null}>
+          <GoogleAnalytics />
+        </Suspense>
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>

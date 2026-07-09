@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Gullfoss Nature Reserve｜Icelandic Golden Waterfall - A Must-Visit Natural Wonder",
-    "description": "Complete guide to Gullfoss Nature Reserve in Iceland. Learn about opening hours, transportation, tickets, tour routes, photo spots and accommodation. The iconic golden waterfall on the Hvítá River."
+    "title": "Gullfoss Waterfall Visitor Guide 2026: Parking Fee, Map & Best Routes",
+    "description": "Plan your visit to Gullfoss Waterfall with current parking fees, parking layout, map, opening hours, driving routes from Reykjavik, and practical visitor tips for 2026."
   },
   "hero": {
     "title": "Gullfoss Nature Reserve",
@@ -113,8 +113,8 @@
     "cyclingDesc": "You can cycle along Route 1 / Route 35 (approx. 117 km one way). Long distance, strong winds, and severe winter cold make it suitable only for professionals.",
     "fromStation": "From Reykjavík City / Airport",
     "fromStationDesc": "From downtown Reykjavík or Keflavík Airport, drive about 1.5-2 hours via Route 1 then Route 35. Good road conditions year-round (4WD needed in winter).",
-    "fromNyhavn": "From Reykjavík Old Harbour (Nyhavn)",
-    "fromNyhavnDesc": "Drive or join a tour from Reykjavík Old Harbour (Nyhavn), about 1.5 hours direct. It is a classic starting point for the Golden Circle."
+    "fromSouth": "From Selfoss and South Iceland",
+    "fromSouthDesc": "From Selfoss, follow Route 35 north toward the Golden Circle. Gullfoss is a practical stop when combining Geysir, Flúðir, and other South Iceland day-trip routes."
   },
   "knowledge": {
     "title": "The History & Culture of Gullfoss",
@@ -351,6 +351,7 @@
   },
   "header": {
     "home": "Home",
+    "transport": "Parking & Transport",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",

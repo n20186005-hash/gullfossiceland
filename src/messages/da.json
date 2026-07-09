@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "title": "Gullfoss Guide 2026: Parkeringsafgift, kort og bedste ruter",
+    "description": "Planlæg dit besøg ved Gullfoss med opdaterede oplysninger om parkeringsafgift, parkeringsområder, kort, åbningstider, køreruter fra Reykjavik og praktiske tips for 2026."
+  },
+  "hero": {
+    "title": "Gullfoss Naturreservat",
+    "subtitle": "Islands gyldne vandfald og et af landets store naturikoner",
+    "rating": "4.8",
+    "reviewCount": "9.001 ægte anmeldelser",
+    "hours": "Åbent 24 timer i døgnet",
+    "openMaps": "Se placering",
+    "bgImage": "/gallery/Gullfoss Nature Reserve_03.jpg"
+  },
+  "intro": {
+    "aboutTitle": "Om Gullfoss",
+    "aboutText": "Gullfoss er en af Islands mest ikoniske og besøgte naturoplevelser, beliggende ved floden Hvítá i det sydvestlige Island. Vandfaldet falder i to trin med en samlet højdeforskel på omkring 32 meter, og det gyldne lys i tågen har givet stedet dets navn.",
+    "title": "Oplev Islands gyldne vandfald",
+    "description": "Gullfoss er et centralt stop på den berømte Golden Circle-rute sammen med Þingvellir og Geysir. Om sommeren bliver oplevelsen endnu mere dramatisk, når smeltevand fra gletsjerne øger vandføringen.\n\nNavnet Gullfoss betyder gyldent vandfald og henviser både til lyset i vandet og de regnbuer, der ofte opstår i tågen på klare dage. Området er beskyttet som naturreservat, så landskabet bevares for fremtidige generationer.",
+    "visitGuide": {
+      "title": "Gode råd til besøget",
+      "items": [
+        "Kom tidligt om morgenen eller senere på eftermiddagen for blødere lys og færre besøgende",
+        "Selve vandfaldet kan opleves gratis, og området er tilgængeligt året rundt",
+        "Brug vandtæt tøj, da tågen kan være kraftig, især om sommeren",
+        "Spring ikke stien til den øvre udsigtsplatform over"
+      ]
+    },
+    "highlights": {
+      "title": "Højdepunkter",
+      "items": [
+        "Et markant vandfald i to niveauer med samlet fald på ca. 32 meter",
+        "Et af de vigtigste stop på Islands mest kendte sightseeingrute",
+        "Regnbuer ses ofte i tågen på solrige dage",
+        "Beskyttet naturområde med velholdte stier og udsigtspunkter"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Også kendt som",
+      "items": [
+        "Gullfoss Waterfall",
+        "Golden Falls",
+        "Gullfossfoss"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Basisoplysninger",
+    "officialName": "Officielt navn",
+    "officialNameValue": "Golden Falls / Gullfoss (Friðland við Gullfoss)",
+    "type": "Type af attraktion",
+    "typeValue": "Vandfald i to niveauer, naturreservat, centralt Golden Circle-stop, ikonisk islandsk naturattraktion, gratis udsigtsområde, kløftlandskab og historisk beskyttet område",
+    "country": "Land",
+    "countryValue": "Island",
+    "city": "Region / placering",
+    "cityValue": "Sydvestisland, Golden Circle-ruten, øvre del af Hvítá, nedstrøms fra Langjökull",
+    "googleRating": "Google-vurdering",
+    "ratingValue": "4.8 (9.001 ægte anmeldelser)",
+    "address": "Adresse",
+    "addressValue": "Gullfoss, Bláskógabyggð, 806 Selfoss, Island"
+  },
+  "hours": {
+    "title": "Åbningstider",
+    "fortress": "Naturreservat og udsigtspunkter",
+    "fortressDesc": "Åbent hele døgnet alle ugens dage med fri adgang til udsigtsområderne",
+    "fortressTime": "24 timer",
+    "cafe": "Gullfoss Café og visitor center",
+    "cafeDesc": "Mandag - søndag (sommer: juni til august)",
+    "cafeTime": "09:00-20:00",
+    "tip": "Sommeren giver normalt den kraftigste vandføring. Om vinteren kræver glatte stier ekstra forsigtighed.",
+    "summer": "Visitor center (sommer)",
+    "summerTime": "09:00 - 20:00",
+    "winter": "Visitor center (vinter)",
+    "winterTime": "10:00 - 16:00",
+    "christmas": "Udsigtsområder ved vandfaldet",
+    "christmasTime": "24 timer (gratis)",
+    "rosenborg": "Gangstier",
+    "rosenborgTime": "24 timer (når vejret tillader det)"
+  },
+  "tickets": {
+    "title": "Priser og afgifter",
+    "fortress": "Naturreservat og udsigt til vandfaldet",
+    "free": "Gratis adgang",
+    "fortressDesc": "Gullfoss og naturområdet omkring vandfaldet kan besøges uden entré.",
+    "catacombs": "Parkeringsafgift",
+    "catacombsDesc": "Der er et stort parkeringsområde ved stedet. Afgift gælder for personbiler og turistbusser.",
+    "catacombsNote": "Typisk omkring 750 ISK for personbiler (ca. 5 EUR). Handicapparkering er normalt gratis på markerede pladser.",
+    "garden": "Vandfaldsoplevelse og vandreruter",
+    "gardenPrice": "Gratis",
+    "rosenborg": "Parkeringsafgift",
+    "adults": "Personbiler",
+    "adultsPrice": "750 ISK (ca. 5 EUR)",
+    "students": "Turistbusser",
+    "studentsPrice": "2.500 ISK (ca. 18 EUR)",
+    "under17": "Gæster med handicap",
+    "under17Price": "Gratis",
+    "card": "Guidede ture",
+    "cardPrice": "Varierer efter udbyder"
+  },
+  "transport": {
+    "title": "Parkering og transport",
+    "metro": "Ingen metro",
+    "metroDesc": "Island har ikke noget metrosystem, og Gullfoss ligger i et landområde uden kollektiv metroskift.",
+    "train": "Ingen tog",
+    "trainDesc": "Island har ikke et offentligt jernbanenet, så der går ingen tog til Gullfoss.",
+    "bus": "Ingen direkte rutebus; busture findes",
+    "busDesc": "Der er normalt ingen direkte offentlig bus, men mange Golden Circle-dagsture fra Reykjavik inkluderer Gullfoss som stop hele året.",
+    "taxi": "Taxi eller privat kørsel fra Reykjavik",
+    "taxiDesc": "En taxitur fra Reykjavik er lang og dyr. Den passer bedst til små grupper, der deler udgiften.",
+    "rideshare": "Begrænset rideshare",
+    "rideshareDesc": "Almindelige rideshare-tjenester er ikke stabile uden for hovedstadsområdet og er sjældent praktiske til ture til Gullfoss.",
+    "cycling": "Cykling (kun for erfarne)",
+    "cyclingDesc": "Det er muligt at cykle ruten, men afstande, vind og skiftende vejr gør turen krævende.",
+    "fromStation": "Fra Reykjavik eller Keflavík lufthavn",
+    "fromStationDesc": "Fra centrum af Reykjavik eller Keflavík tager køreturen normalt 1,5 til 2 timer via rute 1 og derefter vej 35.",
+    "fromSouth": "Fra Selfoss og Sydisland",
+    "fromSouthDesc": "Fra Selfoss følger du vej 35 nordpå mod Golden Circle. Gullfoss er et oplagt stop sammen med Geysir, Flúðir og andre ruter på Sydisland."
+  },
+  "knowledge": {
+    "title": "Gullfoss: historie og kultur",
+    "sections": [
+      {
+        "title": "Historisk betydning",
+        "content": "Gullfoss har været beskyttet siden 1979. I begyndelsen af det 20. århundrede fandtes planer om at udnytte vandfaldet til vandkraft, men gennem indsatsen fra Sigríður Tómasdóttir blev stedet bevaret for offentligheden og fremtiden.\n\nVandfaldet er en del af floden Hvítá, som får vand fra Langjökull. Vandføringen varierer efter årstid og er stærkest om sommeren, når gletsjerne smelter."
+      },
+      {
+        "title": "Geologiske forhold",
+        "content": "Gullfoss falder først ca. 11 meter og derefter ca. 21 meter ned i en smal kløft. Den samlede højde er omkring 32 meter. Navnet forbindes ofte med det gyldne lys i vandet og de regnbuer, som opstår i tågen.\n\nDen gennemsnitlige vandføring er omkring 109 kubikmeter i sekundet, men kan blive betydeligt højere i sommermånederne. På klare dage kan tågen ses på lang afstand."
+      },
+      {
+        "title": "Turisme og naturbeskyttelse",
+        "content": "Gullfoss er et af de vigtigste stop på Golden Circle og besøges hvert år af mange rejsende fra hele verden.\n\nOmrådet er udviklet med fokus på bæredygtig turisme, med stier, udsigtsplatforme og visitor center, som gør besøget sikkert uden at svække landskabets naturværdi."
+      }
+    ]
+  },
+  "route": {
+    "title": "Anbefalet besøgsrute",
+    "overview": "De fleste bruger 1 til 2 timer ved Gullfoss. Kører du hele Golden Circle, er det oplagt at besøge stedet efter Geysir og kombinere både de øvre og nedre udsigtspunkter.",
+    "steps": [
+      "Parker på hovedparkeringsområdet og betal parkeringsafgiften, hvis den gælder for dit køretøj",
+      "Gå forbi visitor center for toiletter, information og opdateringer om stiernes forhold",
+      "Begynd ved den øvre platform for det bedste overblik over vandfaldet og kløften",
+      "Fortsæt ned ad den nedre sti for at komme tættere på vandet og mærke kraften fra fossen",
+      "Udnyt solrige perioder til at fotografere regnbuer i tågen",
+      "Tag en pause i caféen, især hvis vejret er koldt eller blæsende",
+      "Kontrollér stiforholdene før du går ned på den nederste rute i vinterhalvåret"
+    ],
+    "tips": {
+      "title": "Rejsetips",
+      "items": [
+        "Vandtæt jakke og gode sko gør oplevelsen langt mere behagelig",
+        "Den nederste sti kan være lukket ved is eller kraftigt snefald",
+        "Morgenlys og sen eftermiddag giver normalt det bedste fotolys",
+        "Gullfoss kan let kombineres med Geysir og Þingvellir på samme dag"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "Fotosteder",
+    "spots": [
+      {
+        "name": "Øvre udsigtsplatform",
+        "desc": "Det bedste sted til brede billeder, hvor både vandfald og kløft kan ses i samme komposition."
+      },
+      {
+        "name": "Nedre gangsti",
+        "desc": "Et godt sted til at komme tættere på vandfaldet, tågen og regnbuerne."
+      },
+      {
+        "name": "Sidevinkel ved kløften",
+        "desc": "Viser tydeligt kraften i vandet, når det forsvinder ned i den smalle kløft."
+      },
+      {
+        "name": "Regnbuer i solskin",
+        "desc": "På klare dage er den øvre platform et stærkt valg til billeder af regnbuer i tågen."
+      }
+    ],
+    "tips": "Blødt lys tidligt og sent på dagen fungerer bedst. Vandtæt beskyttelse til mobil eller kamera er meget nyttig nær den nederste sti."
+  },
+  "hotels": {
+    "title": "Overnatning",
+    "hotels": [
+      {
+        "name": "Hotel Gullfoss (i nærheden)",
+        "desc": "Praktisk overnatning i kort køreafstand fra vandfaldet og velegnet som base på Golden Circle.",
+        "price": "€120-200 pr. nat"
+      },
+      {
+        "name": "Overnatning i Selfoss (ca. 30 minutter væk)",
+        "desc": "Selfoss tilbyder et bredt udvalg af muligheder fra enkle guesthouses til mere komfortable hoteller.",
+        "price": "€80-150 pr. nat"
+      },
+      {
+        "name": "Reykjavik (ca. 2 timer væk)",
+        "desc": "Hovedstaden har det største udvalg og passer godt til dagsture på Golden Circle.",
+        "price": "€100-300 pr. nat"
+      }
+    ],
+    "exitWarning": "Overnatning helt tæt på Gullfoss er begrænset. Mange vælger at bo i Reykjavik, Selfoss eller nærliggende områder og tage på dagstur."
+  },
+  "gallery": {
+    "title": "Fotogalleri",
+    "subtitle": "Gullfoss og landskabet omkring vandfaldet",
+    "captions": [
+      "Overblik over vandfaldet",
+      "Øvre udsigtsplatform",
+      "Tåge og regnbue",
+      "Nedre sti",
+      "Udsigt over kløften",
+      "Nærbillede af vandfaldet",
+      "Sommerens vandføring",
+      "Vinterstemning"
+    ],
+    "viewAll": "Se på Google Maps",
+    "photos": [
+      { "src": "/gallery/Gullfoss Nature Reserve_01.jpg", "alt": "Overblik over vandfaldet" },
+      { "src": "/gallery/Gullfoss Nature Reserve_02.jpg", "alt": "Øvre udsigtspunkt" },
+      { "src": "/gallery/Gullfoss Nature Reserve_03.jpg", "alt": "Tåge og regnbue" },
+      { "src": "/gallery/Gullfoss Nature Reserve_04.jpg", "alt": "Nedre sti" },
+      { "src": "/gallery/Gullfoss Nature Reserve_05.jpg", "alt": "Kløftlandskab" },
+      { "src": "/gallery/Gullfoss Nature Reserve_06.jpg", "alt": "Vandfald i nærbillede" },
+      { "src": "/gallery/Gullfoss Nature Reserve_07.jpg", "alt": "Sommerens vandføring" },
+      { "src": "/gallery/Gullfoss Nature Reserve_09.jpg", "alt": "Vinter ved Gullfoss" },
+      { "src": "/gallery/Gullfoss Nature Reserve_10.jpg", "alt": "Regnbueeffekt" },
+      { "src": "/gallery/Gullfoss Nature Reserve_11.jpg", "alt": "Hvítá" },
+      { "src": "/gallery/Gullfoss Nature Reserve_12.jpg", "alt": "Visitor center" },
+      { "src": "/gallery/Gullfoss Nature Reserve_13.jpg", "alt": "Vandresti" },
+      { "src": "/gallery/Gullfoss Nature Reserve_14.jpg", "alt": "Panorama" },
+      { "src": "/gallery/Gullfoss Nature Reserve_15.jpg", "alt": "Vandets kraft" },
+      { "src": "/gallery/Gullfoss Nature Reserve_16.jpg", "alt": "Islandsk landskab" },
+      { "src": "/gallery/Gullfoss Nature Reserve_17.jpg", "alt": "Tåget stemning" },
+      { "src": "/gallery/Gullfoss Nature Reserve_18.jpg", "alt": "Golden Circle" },
+      { "src": "/gallery/Gullfoss Nature Reserve_19.jpg", "alt": "Naturreservat" },
+      { "src": "/gallery/Gullfoss Nature Reserve_20.jpg", "alt": "Aftenlys ved fossen" }
+    ]
+  },
+  "reviews": {
+    "title": "Gæsteanmeldelser",
+    "declaration": "Gæsteanmeldelser kan ses via Google Maps (eksternt link).",
+    "moreReviews": "Se flere anmeldelser på Google Maps",
+    "items": [
+      {
+        "name": "Lars H.",
+        "date": "april 2026",
+        "rating": 5,
+        "text": "Et helt imponerende sted. Vandfaldets kraft er langt stærkere i virkeligheden end på billeder, og regnbuen i tågen var fantastisk."
+      },
+      {
+        "name": "Emma S.",
+        "date": "marts 2026",
+        "rating": 5,
+        "text": "Meget gennemført område med gode stier og flere stærke udsigtspunkter. Let at besøge på en dagstur."
+      },
+      {
+        "name": "Mikkel R.",
+        "date": "februar 2026",
+        "rating": 5,
+        "text": "Om vinteren får stedet en helt anden stemning. Is, sne og tåge gør oplevelsen særligt dramatisk."
+      },
+      {
+        "name": "Sara L.",
+        "date": "januar 2026",
+        "rating": 4,
+        "text": "Smukt vandfald og god adgang. Parkeringsafgiften virker rimelig i forhold til faciliteterne på stedet."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Kort og placering",
+    "subtitle": "Gullfoss, Bláskógabyggð, 806 Selfoss, Island",
+    "openMaps": "Åbn i Google Maps",
+    "openMapsUrl": "https://maps.app.goo.gl/FKUpAyktZua15RVK8",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.5714285714284!2d-20.2988!3d64.3282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d7168f9a6f8e6b%3A0x8b8b8b8b8b8b8b8b!2sGullfoss!5e0!3m2!1sen!2sis!4v1700000000000!5m2!1sen!2sis"
+  },
+  "footer": {
+    "logo": "Gullfoss Naturreservat",
+    "rights": "© 2026 Uafhængig guide til Gullfoss. Alle rettigheder forbeholdes.",
+    "privacy": "Privatlivspolitik",
+    "terms": "Brugsbetingelser",
+    "cookies": "Cookieindstillinger",
+    "disclaimer": "Ansvarsfraskrivelse: Denne hjemmeside er en uafhængig besøgsguide og er ikke tilknyttet den officielle forvaltning af Gullfoss eller islandske turistmyndigheder. Oplysningerne er kun til rejseforberedelse og kan ændre sig efter sæson og forhold. Kontrollér vigtige oplysninger hos officielle kilder før dit besøg.",
+    "officialResourcesTitle": "Officielle kilder og turismeressourcer",
+    "officialLinks": {
+      "environment": "Environment Agency of Iceland",
+      "south": "Visit South Iceland",
+      "municipality": "Bláskógabyggð Kommune",
+      "sarpur": "Sarpur kulturarvsdatabase",
+      "waterfall": "World Waterfall Database"
+    }
+  },
+  "officialManagement": {
+    "title": "Om Gullfoss som beskyttet område",
+    "text": "Gullfoss er et af Islands stærkeste naturikoner og har været beskyttet i årtier. Vandfaldet er en del af Hvítá og spiller en central rolle på Golden Circle som eksempel på både naturbevarelse og bæredygtig besøgsforvaltning."
+  },
+  "header": {
+    "home": "Hjem",
+    "transport": "Parkering og transport",
+    "gallery": "Galleri",
+    "reviews": "Anmeldelser",
+    "map": "Kort",
+    "backToHome": "Tilbage til forsiden"
+  },
+  "privacy": {
+    "title": "Privatlivspolitik",
+    "lastUpdated": "Sidst opdateret: maj 2026",
+    "sections": [
+      {
+        "heading": "Hvilke oplysninger vi indsamler",
+        "content": "Vi indsamler kun de oplysninger, der er nødvendige for at drive hjemmesiden, herunder IP-adresse, browsertype, besøgte sider, cookies og oplysninger, som brugere selv sender via formularer eller e-mail."
+      },
+      {
+        "heading": "Hvordan oplysningerne bruges",
+        "content": "Oplysningerne bruges til at forbedre indhold og brugeroplevelse, analysere brugen af hjemmesiden, besvare henvendelser og opfylde relevante juridiske forpligtelser."
+      },
+      {
+        "heading": "Tredjepartstjenester",
+        "content": "Hjemmesiden kan anvende tredjepartstjenester som Google Maps til kort og placering samt Google Analytics til anonym trafikmåling, når målingen er aktiveret. Disse tjenester har deres egne privatlivspolitikker."
+      },
+      {
+        "heading": "Dine rettigheder",
+        "content": "I henhold til GDPR og relaterede regler kan du anmode om adgang til personoplysninger, rettelse eller sletning, gøre indsigelse mod behandling og indgive klage til den relevante tilsynsmyndighed."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Brugsbetingelser",
+    "lastUpdated": "Sidst opdateret: marts 2026",
+    "sections": [
+      {
+        "heading": "Brug af indhold",
+        "content": "Ved at bruge denne hjemmeside accepterer du disse betingelser. Alt indhold offentliggøres kun til informationsformål. Vi er en uafhængig rejseside og er ikke knyttet til officielle myndigheder eller kommercielle operatører."
+      },
+      {
+        "heading": "Oplysningernes nøjagtighed",
+        "content": "Vi bestræber os på at levere korrekte og opdaterede oplysninger, men kan ikke garantere, at de altid er fuldstændige eller fejlfri. Forhold, adgang og tjenester kan ændre sig uden varsel."
+      },
+      {
+        "heading": "Immaterielle rettigheder",
+        "content": "Hjemmesidens design og originale indhold er beskyttet af ophavsret. Kortdata og indlejrede tjenester er underlagt de respektive udbyderes vilkår."
+      },
+      {
+        "heading": "Ansvarsbegrænsning",
+        "content": "Hjemmesiden stilles til rådighed som den er. Vi er ikke ansvarlige for tab eller omkostninger, der opstår som følge af beslutninger truffet på baggrund af oplysningerne på siden."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookieindstillinger",
+    "description": "Sidst opdateret: marts 2026. Vi bruger cookies til at forbedre oplevelsen på hjemmesiden. Du kan administrere dine præferencer nedenfor.",
+    "essential": {
+      "title": "Nødvendige cookies",
+      "description": "Disse cookies er nødvendige for, at hjemmesiden fungerer korrekt, og de kan ikke deaktiveres.",
+      "alwaysActive": "Altid aktiv"
+    },
+    "analytics": {
+      "title": "Analysecookies",
+      "description": "De hjælper os med at forstå, hvordan besøgende bruger hjemmesiden, ved at indsamle anonyme brugsdata."
+    },
+    "preferences": {
+      "title": "Præferencecookies",
+      "description": "De husker dine valg, f.eks. sprog og temaindstillinger."
+    },
+    "marketing": {
+      "title": "Marketingcookies",
+      "description": "De bruges til at måle effekten af kampagner og vise relevante annoncer, når sådanne løsninger er aktiveret."
+    },
+    "consentManagement": "Samtykkestyring: Du kan ændre dine cookieindstillinger når som helst. Bemærk, at deaktivering af visse cookies kan påvirke hjemmesidens funktionalitet.",
+    "save": "Gem præferencer",
+    "rejectAll": "Afvis alle",
+    "saved": "Indstillinger gemt!"
+  }
+}

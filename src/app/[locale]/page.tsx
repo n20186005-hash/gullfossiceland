@@ -1,20 +1,43 @@
 import { setRequestLocale } from 'next-intl/server';
+import type { Metadata } from 'next';
 import Header from '@/components/Header';
-import Hero from '@/components/Hero';
-import Intro from '@/components/Intro';
-import BasicInfo from '@/components/BasicInfo';
-import HoursSection from '@/components/HoursSection';
-import TicketsSection from '@/components/TicketsSection';
+import GullfossHero from '@/components/GullfossHero';
+import GullfossIntro from '@/components/GullfossIntro';
+import GullfossBasicInfo from '@/components/GullfossBasicInfo';
+import GullfossHoursSection from '@/components/GullfossHoursSection';
+import GullfossTicketsSection from '@/components/GullfossTicketsSection';
 import TransportSection from '@/components/TransportSection';
-import InfoSection from '@/components/InfoSection';
-import RouteSection from '@/components/RouteSection';
-import PhotoSpotsSection from '@/components/PhotoSpotsSection';
+import GullfossInfoSection from '@/components/GullfossInfoSection';
+import GullfossRouteSection from '@/components/GullfossRouteSection';
+import GullfossPhotoSpotsSection from '@/components/GullfossPhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
-import Gallery from '@/components/Gallery';
-import Reviews from '@/components/Reviews';
-import MapEmbed from '@/components/MapEmbed';
-import Recommendations from '@/components/Recommendations';
+import GullfossGallery from '@/components/GullfossGallery';
+import GullfossReviews from '@/components/GullfossReviews';
+import GullfossMapEmbed from '@/components/GullfossMapEmbed';
 import Footer from '@/components/Footer';
+import { buildAlternates, getHomeSeo, getParkingFaq, siteConfig, type SiteLocale } from '@/lib/site';
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const seo = getHomeSeo(locale as SiteLocale);
+
+  return {
+    title: seo.title,
+    description: seo.description,
+    alternates: buildAlternates(),
+    openGraph: {
+      title: seo.title,
+      description: seo.description,
+      url: `${siteConfig.url}/${locale}`,
+      siteName: siteConfig.guideName,
+      type: 'article',
+    },
+  };
+}
 
 export default async function HomePage({
   params,
@@ -23,25 +46,42 @@ export default async function HomePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const faqItems = getParkingFaq(locale as SiteLocale);
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    inLanguage: locale,
+    mainEntity: faqItems.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <Header />
       <main>
-        <Hero />
-        <Intro />
-        <BasicInfo />
-        <HoursSection />
-        <TicketsSection />
+        <GullfossHero />
+        <GullfossIntro />
+        <GullfossBasicInfo />
+        <GullfossHoursSection />
+        <GullfossTicketsSection />
         <TransportSection />
-        <InfoSection />
-        <RouteSection />
-        <PhotoSpotsSection />
+        <GullfossInfoSection />
+        <GullfossRouteSection />
+        <GullfossPhotoSpotsSection />
         <HotelsSection />
-        <Gallery />
-        <Reviews />
-        <MapEmbed />
-        <Recommendations />
+        <GullfossGallery />
+        <GullfossReviews />
+        <GullfossMapEmbed />
       </main>
       <Footer />
     </>

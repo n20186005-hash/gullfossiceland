@@ -8,6 +8,8 @@ import { useState, useRef, useEffect, useTransition } from 'react';
 const labels: Record<string, string> = {
   zh: '中文',
   en: 'English',
+  is: 'Íslenska',
+  da: 'Dansk',
 };
 
 export default function LanguageToggle() {

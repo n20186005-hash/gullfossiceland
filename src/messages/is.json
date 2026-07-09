@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "title": "Leiðarvísir um Gullfoss 2026: Bílastæðagjald, kort og bestu leiðir",
+    "description": "Skipuleggðu ferð til Gullfoss með uppfærðum upplýsingum um bílastæðagjald, bílastæði, kort, opnunartíma, akstursleiðir frá Reykjavík og gagnleg ráð fyrir árið 2026."
+  },
+  "hero": {
+    "title": "Friðland við Gullfoss",
+    "subtitle": "Gullfoss og eitt þekktasta náttúruundur Íslands",
+    "rating": "4.8",
+    "reviewCount": "9.001 raunverulegar umsagnir",
+    "hours": "Opið allan sólarhringinn",
+    "openMaps": "Sjá staðsetningu",
+    "bgImage": "/gallery/Gullfoss Nature Reserve_03.jpg"
+  },
+  "intro": {
+    "aboutTitle": "Um Gullfoss",
+    "aboutText": "Gullfoss er einn þekktasti og vinsælasti náttúrustaður Íslands, staðsettur í Hvítá á Suðvesturlandi. Fossinn fellur í tveimur þrepum, alls um 32 metra, og gyllt mistur í sólskini skýrir vel nafnið Gullfoss.",
+    "title": "Uppgötvaðu gullna foss Íslands",
+    "description": "Gullfoss er lykilstopp á Gullna hringnum ásamt Þingvöllum og Geysi. Á sumrin verður fossinn sérstaklega áhrifamikill þegar jökulvatn eykur rennslið.\n\nHeitið Gullfoss vísar bæði til gylltrar birtu í vatninu og regnboga sem sjást oft í úðanum á björtum dögum. Svæðið er friðlýst og náttúrugæðum þess er haldið óspilltum fyrir komandi kynslóðir.",
+    "visitGuide": {
+      "title": "Góð ráð fyrir heimsókn",
+      "items": [
+        "Komdu snemma að morgni eða seinni part dags fyrir mýkri birtu og færri gesti",
+        "Aðgangur að fossinum er ókeypis og svæðið er opið allt árið",
+        "Notaðu vatnsheld föt því úðinn getur verið mikill, sérstaklega á sumrin",
+        "Ekki sleppa gönguleiðinni upp á efra útsýnissvæðið"
+      ]
+    },
+    "highlights": {
+      "title": "Helstu atriði",
+      "items": [
+        "Tvíþrepa foss með samtals um 32 metra fallhæð",
+        "Mikilvægur hluti af frægustu ferðamannaleið Íslands, Gullna hringnum",
+        "Regnbogar sjást oft í fossúðanum á sólríkum dögum",
+        "Friðlýst náttúrusvæði með vel viðhöldnum göngustígum"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Einnig þekkt sem",
+      "items": [
+        "Gullfoss Waterfall",
+        "Golden Falls",
+        "Gullfossfoss"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Grunnupplýsingar",
+    "officialName": "Opinbert heiti",
+    "officialNameValue": "Gullfoss / Friðland við Gullfoss",
+    "type": "Tegund áfangastaðar",
+    "typeValue": "Tvíþrepa foss, friðland, kjarni Gullna hringsins, táknrænt íslenskt náttúruundur, ókeypis útsýnissvæði, gljúfralandslag og sögulegt verndarsvæði",
+    "country": "Land",
+    "countryValue": "Ísland",
+    "city": "Svæði / staðsetning",
+    "cityValue": "Suðvesturland, Gullni hringurinn, efri hluti Hvítár, neðan við Langjökul",
+    "googleRating": "Google einkunn",
+    "ratingValue": "4.8 (9.001 raunverulegar umsagnir)",
+    "address": "Heimilisfang",
+    "addressValue": "Gullfoss, Bláskógabyggð, 806 Selfoss, Ísland"
+  },
+  "hours": {
+    "title": "Opnunartími",
+    "fortress": "Friðland og útsýnispallar",
+    "fortressDesc": "Opið allan sólarhringinn alla daga vikunnar, frír aðgangur að öllum útsýnissvæðum",
+    "fortressTime": "24 tímar",
+    "cafe": "Gullfosskaffi og gestamiðstöð",
+    "cafeDesc": "Mánudagur - sunnudagur (sumar: júní til ágúst)",
+    "cafeTime": "09:00-20:00",
+    "tip": "Sumarið býður yfirleitt upp á mesta vatnsmagn. Á veturna þarf að gæta varúðar vegna hálku á stígum.",
+    "summer": "Gestamiðstöð (sumar)",
+    "summerTime": "09:00 - 20:00",
+    "winter": "Gestamiðstöð (vetur)",
+    "winterTime": "10:00 - 16:00",
+    "christmas": "Útsýnissvæði við fossinn",
+    "christmasTime": "24 tímar (ókeypis)",
+    "rosenborg": "Göngustígar",
+    "rosenborgTime": "24 tímar (ef veður leyfir)"
+  },
+  "tickets": {
+    "title": "Verð og gjöld",
+    "fortress": "Friðland og fossútsýni",
+    "free": "Ókeypis aðgangur",
+    "fortressDesc": "Gullfoss og friðlandið í kring eru opin án aðgangseyris.",
+    "catacombs": "Bílastæðagjald",
+    "catacombsDesc": "Stórt bílastæði er á svæðinu. Gjald er innheimt fyrir einkabíla og hópbíla.",
+    "catacombsNote": "Yfirleitt um 750 ISK fyrir einkabíla (u.þ.b. 5 EUR). Fatlaðir gestir geta lagt án gjalds á merktum stæðum.",
+    "garden": "Fossaskoðun og gönguleiðir",
+    "gardenPrice": "Ókeypis",
+    "rosenborg": "Bílastæðagjald",
+    "adults": "Einkabílar",
+    "adultsPrice": "750 ISK (u.þ.b. 5 EUR)",
+    "students": "Hópferðabílar",
+    "studentsPrice": "2.500 ISK (u.þ.b. 18 EUR)",
+    "under17": "Fatlaðir gestir",
+    "under17Price": "Ókeypis",
+    "card": "Leiðsagðar ferðir",
+    "cardPrice": "Breytilegt eftir ferðaskipuleggjanda"
+  },
+  "transport": {
+    "title": "Bílastæði og samgöngur",
+    "metro": "Engin neðanjarðarlest",
+    "metroDesc": "Það er engin neðanjarðarlest á Íslandi og Gullfoss er á dreifbýlu svæði.",
+    "train": "Engar lestar",
+    "trainDesc": "Ísland er ekki með almenningsjárnbrautir, þannig að engar lestir fara að Gullfossi.",
+    "bus": "Enginn almenningsvagn beint að fossinum; hópferðir í boði",
+    "busDesc": "Beinar almenningssamgöngur eru takmarkaðar, en fjölmargar dagsferðir frá Reykjavík um Gullna hringinn stoppa við Gullfoss allt árið.",
+    "taxi": "Leigubíll eða sérpöntuð akstursþjónusta frá Reykjavík",
+    "taxiDesc": "Leigubílferð frá Reykjavík er löng og kostnaðarsöm. Hún hentar helst litlum hópum sem skipta kostnaði sín á milli.",
+    "rideshare": "Takmörkuð deilibílaþjónusta",
+    "rideshareDesc": "Hefðbundin rideshare-þjónusta er ekki áreiðanleg utan höfuðborgarsvæðisins og hentar sjaldan ferðum að Gullfossi.",
+    "cycling": "Hjólreiðar (aðeins fyrir vana)",
+    "cyclingDesc": "Það er mögulegt að hjóla leiðina, en vegalengdir, vindur og breytilegt veður gera ferðina krefjandi.",
+    "fromStation": "Frá Reykjavík eða Keflavíkurflugvelli",
+    "fromStationDesc": "Frá miðbæ Reykjavíkur eða Keflavíkurflugvelli tekur aksturinn yfirleitt 1,5 til 2 klukkustundir um þjóðveg 1 og síðan veg 35.",
+    "fromSouth": "Frá Selfossi og Suðurlandi",
+    "fromSouthDesc": "Frá Selfossi er ekið norður veg 35 inn á Gullna hringinn. Gullfoss hentar vel sem stopp með Geysi, Flúðum og öðrum áfangastöðum á Suðurlandi."
+  },
+  "knowledge": {
+    "title": "Saga og menningarlegt samhengi Gullfoss",
+    "sections": [
+      {
+        "title": "Sögulegt mikilvægi",
+        "content": "Gullfoss hefur verið friðlýstur frá 1979. Snemma á 20. öld voru uppi hugmyndir um að virkja fossinn, en vegna baráttu Sigríðar Tómasdóttur var fossinn varðveittur fyrir almenning og framtíðina.\n\nFossinn er hluti af Hvítá sem á upptök sín í Langjökli. Rennslið breytist eftir árstíðum og verður mest þegar jökulbráð nær hámarki á sumrin."
+      },
+      {
+        "title": "Jarðfræðileg sérkenni",
+        "content": "Gullfoss fellur fyrst um 11 metra og síðan um 21 metra niður í þröngt gljúfur. Samanlögð fallhæð er um 32 metrar. Nafnið er oft tengt gylltri birtu í fossinum og regnbogum í úðanum.\n\nMeðalrennsli er um 109 rúmmetrar á sekúndu, en getur orðið mun meira yfir sumarið. Úðinn sést langt að á björtum dögum."
+      },
+      {
+        "title": "Ferðamennska og vernd",
+        "content": "Gullfoss er eitt mikilvægasta stopp á Gullna hringnum ásamt Þingvöllum og Geysi og laðar að sér fjölda gesta á hverju ári.\n\nInnviðir á svæðinu hafa verið þróaðir með sjálfbæra ferðamennsku í huga, með stígum, útsýnispöllum og gestamiðstöð sem styðja við örugga heimsókn án þess að rýra náttúrugildi svæðisins."
+      }
+    ]
+  },
+  "route": {
+    "title": "Ráðlögð heimsóknarleið",
+    "overview": "Flestir verja 1 til 2 klukkustundum við Gullfoss. Ef þú ekur Gullna hringinn er eðlilegt að koma hingað eftir Geysi og nýta bæði efri og neðri útsýnissvæði.",
+    "steps": [
+      "Leggðu á aðalbílastæðinu og greiddu bílastæðagjaldið ef við á",
+      "Farðu við í gestamiðstöðina fyrir salerni, upplýsingar og veðurstöðuna á stígum",
+      "Byrjaðu á efra útsýnissvæðinu fyrir heildarsýn yfir fossinn og gljúfrið",
+      "Farðu síðan niður neðri stíginn til að komast nær fossinum og finna betur kraft vatnsins",
+      "Nýttu sólskinsstundir til að mynda regnboga í úðanum",
+      "Hvíldu þig í kaffihúsinu og hitaðu þig upp ef veður er svalt",
+      "Athugaðu ástand stíga áður en þú ferð niður neðri gönguleiðina yfir vetrartímann"
+    ],
+    "tips": {
+      "title": "Ferðaráð",
+      "items": [
+        "Vatnsheldur jakki og góðir skór gera heimsóknina mun þægilegri",
+        "Neðri gönguleiðin getur verið lokuð í hálku eða miklum snjó",
+        "Morgunbirta og síðdegissól henta best fyrir ljósmyndun",
+        "Auðvelt er að sameina Gullfoss með Geysi og Þingvöllum á einum degi"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "Myndatökustaðir",
+    "spots": [
+      {
+        "name": "Efri útsýnispallur",
+        "desc": "Besti staðurinn fyrir víðmynd þar sem fossinn og gljúfrið sjást í einu ramma."
+      },
+      {
+        "name": "Neðri gönguleið",
+        "desc": "Frábær staður til að komast nær fossinum, sjá úðann og mynda regnboga."
+      },
+      {
+        "name": "Hliðarhorn við gljúfrið",
+        "desc": "Sýnir vel kraft vatnsins þegar það hverfur niður í þröngt gljúfrið."
+      },
+      {
+        "name": "Regnbogar í sólskini",
+        "desc": "Á sólríkum dögum eru góðar líkur á regnboga frá efri pallinum."
+      }
+    ],
+    "tips": "Mýkri birta snemma morguns og seinni part dags hentar best. Vatnsheld vörn fyrir síma eða myndavél er mjög gagnleg við neðri leiðina."
+  },
+  "hotels": {
+    "title": "Gisting",
+    "hotels": [
+      {
+        "name": "Hotel Gullfoss (í grenndinni)",
+        "desc": "Hentug gisting í stuttri akstursfjarlægð frá fossinum og góð staðsetning fyrir Gullna hringinn.",
+        "price": "€120-200 á nótt"
+      },
+      {
+        "name": "Gististaðir á Selfossi (um 30 mínútur í burtu)",
+        "desc": "Selfoss býður upp á fjölbreytt úrval gistimöguleika frá einföldum gistiheimilum upp í þægileg hótel.",
+        "price": "€80-150 á nótt"
+      },
+      {
+        "name": "Reykjavík (um 2 klukkustundir í burtu)",
+        "desc": "Höfuðborgin býður upp á mesta úrvalið og hentar vel þeim sem fara dagsferð um Gullna hringinn.",
+        "price": "€100-300 á nótt"
+      }
+    ],
+    "exitWarning": "Gisting mjög nærri Gullfossi er takmörkuð. Margir gista í Reykjavík, Selfossi eða nærliggjandi byggðum og fara dagsferð."
+  },
+  "gallery": {
+    "title": "Myndasafn",
+    "subtitle": "Gullfoss og landslagið í kring",
+    "captions": [
+      "Yfirlit yfir fossinn",
+      "Efri útsýnispallur",
+      "Úði og regnbogi",
+      "Neðri gönguleið",
+      "Útsýni yfir gljúfur",
+      "Nærmynd af fossinum",
+      "Sumarrennsli",
+      "Vetrarsvipur"
+    ],
+    "viewAll": "Skoða á Google Maps",
+    "photos": [
+      { "src": "/gallery/Gullfoss Nature Reserve_01.jpg", "alt": "Yfirlit yfir fossinn" },
+      { "src": "/gallery/Gullfoss Nature Reserve_02.jpg", "alt": "Efri útsýnispallur" },
+      { "src": "/gallery/Gullfoss Nature Reserve_03.jpg", "alt": "Úði og regnbogi" },
+      { "src": "/gallery/Gullfoss Nature Reserve_04.jpg", "alt": "Neðri stígur" },
+      { "src": "/gallery/Gullfoss Nature Reserve_05.jpg", "alt": "Gljúfur" },
+      { "src": "/gallery/Gullfoss Nature Reserve_06.jpg", "alt": "Nærmynd af fossinum" },
+      { "src": "/gallery/Gullfoss Nature Reserve_07.jpg", "alt": "Sumarrennsli" },
+      { "src": "/gallery/Gullfoss Nature Reserve_09.jpg", "alt": "Vetur við Gullfoss" },
+      { "src": "/gallery/Gullfoss Nature Reserve_10.jpg", "alt": "Regnbogi" },
+      { "src": "/gallery/Gullfoss Nature Reserve_11.jpg", "alt": "Hvítá" },
+      { "src": "/gallery/Gullfoss Nature Reserve_12.jpg", "alt": "Gestamiðstöð" },
+      { "src": "/gallery/Gullfoss Nature Reserve_13.jpg", "alt": "Gönguleið" },
+      { "src": "/gallery/Gullfoss Nature Reserve_14.jpg", "alt": "Víðsýni" },
+      { "src": "/gallery/Gullfoss Nature Reserve_15.jpg", "alt": "Kraftur fossins" },
+      { "src": "/gallery/Gullfoss Nature Reserve_16.jpg", "alt": "Íslenskt landslag" },
+      { "src": "/gallery/Gullfoss Nature Reserve_17.jpg", "alt": "Mistri umlukt andrúmsloft" },
+      { "src": "/gallery/Gullfoss Nature Reserve_18.jpg", "alt": "Gullni hringurinn" },
+      { "src": "/gallery/Gullfoss Nature Reserve_19.jpg", "alt": "Friðland" },
+      { "src": "/gallery/Gullfoss Nature Reserve_20.jpg", "alt": "Kvöldbirta við fossinn" }
+    ]
+  },
+  "reviews": {
+    "title": "Umsagnir gesta",
+    "declaration": "Umsagnir gesta má skoða á Google Maps (ytri hlekkur).",
+    "moreReviews": "Sjá fleiri umsagnir á Google Maps",
+    "items": [
+      {
+        "name": "Aron H.",
+        "date": "apríl 2026",
+        "rating": 5,
+        "text": "Ótrúlega áhrifamikið. Fossinn er miklu kraftmeiri í raun en á myndum og regnboginn í úðanum var stórkostlegur."
+      },
+      {
+        "name": "Elín S.",
+        "date": "mars 2026",
+        "rating": 5,
+        "text": "Mjög vel upp byggt svæði með góðum stígum og fallegu útsýni af mörgum sjónarhornum."
+      },
+      {
+        "name": "Mikael R.",
+        "date": "febrúar 2026",
+        "rating": 5,
+        "text": "Vetrarheimsókn gaf allt aðra stemningu. Klaki og snjór gera svæðið einstakt, en góðir skór skipta miklu."
+      },
+      {
+        "name": "Sara L.",
+        "date": "janúar 2026",
+        "rating": 4,
+        "text": "Fallegur foss og auðvelt að heimsækja. Bílastæðagjaldið er hóflegt miðað við aðstöðu og aðgengi."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Kort og staðsetning",
+    "subtitle": "Gullfoss, Bláskógabyggð, 806 Selfoss, Ísland",
+    "openMaps": "Opna í Google Maps",
+    "openMapsUrl": "https://maps.app.goo.gl/FKUpAyktZua15RVK8",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.5714285714284!2d-20.2988!3d64.3282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d7168f9a6f8e6b%3A0x8b8b8b8b8b8b8b8b!2sGullfoss!5e0!3m2!1sen!2sis!4v1700000000000!5m2!1sen!2sis"
+  },
+  "footer": {
+    "logo": "Friðland við Gullfoss",
+    "rights": "© 2026 Óháð leiðsögn um Gullfoss. Öll réttindi áskilin.",
+    "privacy": "Persónuverndarstefna",
+    "terms": "Notkunarskilmálar",
+    "cookies": "Stillingar á vefkökum",
+    "disclaimer": "Fyrirvari: Þessi vefsíða er sjálfstæð leiðsagnarsíða fyrir gesti og tengist hvorki opinberri stjórn Gullfoss né íslenskum ferðamálayfirvöldum. Upplýsingar eru ætlaðar til almennrar ferðaundirbúnings og geta breyst eftir árstíð og aðstæðum. Staðfestu mikilvægar upplýsingar hjá opinberum aðilum áður en þú leggur af stað.",
+    "officialResourcesTitle": "Opinberar heimildir og ferðaupplýsingar",
+    "officialLinks": {
+      "environment": "Umhverfisstofnun (landsvísu)",
+      "south": "Visit South Iceland (svæðisbundið)",
+      "municipality": "Bláskógabyggð (sveitarfélag)",
+      "sarpur": "Sarpur menningarsögugagnagrunnur",
+      "waterfall": "World Waterfall Database"
+    }
+  },
+  "officialManagement": {
+    "title": "Um verndarsvæði Gullfoss",
+    "text": "Gullfoss er eitt helsta náttúrutákn Íslands og hefur verið friðlýstur í áratugi. Fossinn er hluti af Hvítá og er einn mikilvægasti viðkomustaður Gullna hringsins með sterka stöðu í náttúruvernd og fræðslu um sjálfbæra ferðamennsku."
+  },
+  "header": {
+    "home": "Heim",
+    "transport": "Bílastæði og samgöngur",
+    "gallery": "Myndir",
+    "reviews": "Umsagnir",
+    "map": "Kort",
+    "backToHome": "Til baka á forsíðu"
+  },
+  "privacy": {
+    "title": "Persónuverndarstefna",
+    "lastUpdated": "Síðast uppfært: maí 2026",
+    "sections": [
+      {
+        "heading": "Hvaða upplýsingar við söfnum",
+        "content": "Við söfnum aðeins lágmarksupplýsingum sem nauðsynlegar eru til að reka vefinn, svo sem IP-tölu, tegund vafra, heimsóttar síður, vefkökur og upplýsingar sem notendur senda sjálfviljugir með tölvupósti eða eyðublöðum."
+      },
+      {
+        "heading": "Hvernig upplýsingarnar eru notaðar",
+        "content": "Við notum upplýsingarnar til að bæta efni og notendaupplifun, greina notkun vefsins, svara fyrirspurnum og uppfylla lagalegar skyldur þar sem það á við."
+      },
+      {
+        "heading": "Þjónustur þriðja aðila",
+        "content": "Vefurinn getur notað þjónustur þriðja aðila, til dæmis Google Maps fyrir kort og staðsetningu og Google Analytics fyrir nafnlausa umferðargreiningu þegar slík mæling er virkjuð. Slíkar þjónustur lúta eigin persónuverndarstefnum."
+      },
+      {
+        "heading": "Réttindi þín",
+        "content": "Samkvæmt GDPR og tengdum reglum getur þú óskað eftir aðgangi að persónuupplýsingum, leiðréttingu eða eyðingu, mótmælt vinnslu og lagt fram kvörtun hjá viðeigandi eftirlitsaðila."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Notkunarskilmálar",
+    "lastUpdated": "Síðast uppfært: mars 2026",
+    "sections": [
+      {
+        "heading": "Notkun efnis",
+        "content": "Með því að nota þennan vef samþykkir þú þessa skilmála. Allt efni er birt í upplýsingaskyni. Við erum sjálfstæð upplýsingasíða fyrir ferðamenn og tengjumst hvorki opinberum stofnunum né rekstraraðilum áfangastaðarins."
+      },
+      {
+        "heading": "Réttleiki upplýsinga",
+        "content": "Við leggjum okkur fram um að birta réttar og tímanlegar upplýsingar, en getum ekki ábyrgst að þær séu alltaf tæmandi eða fullkomlega uppfærðar. Aðstæður, leiðir og þjónusta geta breyst án fyrirvara."
+      },
+      {
+        "heading": "Hugverkaréttur",
+        "content": "Hönnun og frumlegt efni síðunnar nýtur höfundaréttarverndar. Kortagögn og innfelld þjónusta lúta skilmálum viðkomandi þjónustuveitna."
+      },
+      {
+        "heading": "Takmörkun ábyrgðar",
+        "content": "Vefurinn er veittur eins og hann er. Við berum ekki ábyrgð á tjóni eða kostnaði sem kann að verða vegna ákvarðana sem teknar eru á grundvelli upplýsinga á síðunni."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Stillingar á vefkökum",
+    "description": "Síðast uppfært: mars 2026. Við notum vefkökur til að bæta upplifun á síðunni. Þú getur stjórnað stillingum hér að neðan.",
+    "essential": {
+      "title": "Nauðsynlegar vefkökur",
+      "description": "Þessar vefkökur eru nauðsynlegar til að vefurinn virki eðlilega og ekki er hægt að slökkva á þeim.",
+      "alwaysActive": "Alltaf virkar"
+    },
+    "analytics": {
+      "title": "Greiningarvefkökur",
+      "description": "Þær hjálpa okkur að skilja hvernig gestir nota vefinn með því að safna nafnlausum notkunargögnum."
+    },
+    "preferences": {
+      "title": "Stillingakökur",
+      "description": "Þær muna val þitt, svo sem tungumál og útlitsstillingar."
+    },
+    "marketing": {
+      "title": "Markaðsvefkökur",
+      "description": "Þær eru notaðar til að mæla árangur herferða og birta viðeigandi auglýsingar þegar slíkar lausnir eru virkjaðar."
+    },
+    "consentManagement": "Samþykkisstjórnun: Þú getur breytt vefkökustillingum hvenær sem er. Athugaðu að slökkt á sumum vefkökum getur haft áhrif á virkni síðunnar.",
+    "save": "Vista stillingar",
+    "rejectAll": "Hafna öllum",
+    "saved": "Stillingar vistaðar!"
+  }
+}

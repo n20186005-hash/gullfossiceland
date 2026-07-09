@@ -1,18 +1,15 @@
 import { defineRouting } from 'next-intl/routing';
+import { siteConfig } from '@/lib/site';
 
 export const routing = defineRouting({
-  locales: ['zh', 'en'],
-  defaultLocale: 'zh',
+  locales: [...siteConfig.locales],
+  defaultLocale: siteConfig.defaultLocale,
   localePrefix: {
-    mode: 'as-needed',
+    mode: 'always',
   },
   pathnames: {
     '/': '/',
     '/gullfoss-nature-reserve': '/gullfoss-nature-reserve',
-    '/petrovaradin-fortress-clock': '/petrovaradin-fortress-clock',
-    '/petrovaradin-fortress-clock/privacy-policy': '/petrovaradin-fortress-clock/privacy-policy',
-    '/petrovaradin-fortress-clock/terms-of-service': '/petrovaradin-fortress-clock/terms-of-service',
-    '/st-naum-monastery-ohrid': '/st-naum-monastery-ohrid',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',

@@ -86,7 +86,7 @@ export default function TransportSection() {
   ];
 
   return (
-    <section className="section-padding">
+    <section id="transport" className="section-padding">
       <div className="max-w-5xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -126,8 +126,8 @@ export default function TransportSection() {
                 <polyline points="9 22 9 12 15 12 15 22"/>
               </svg>
             }
-            title={t('fromNyhavn')}
-            description={t('fromNyhavnDesc')}
+            title={t('fromSouth')}
+            description={t('fromSouthDesc')}
           />
         </div>
       </div>

@@ -1,6 +1,6 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useMessages, useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
@@ -27,7 +27,12 @@ const photos = [
 
 export default function GullfossGallery() {
   const t = useTranslations('gallery');
-  const tMap = useTranslations('mapSection');
+  const messages = useMessages() as {
+    gallery?: {
+      captions?: string[];
+      photos?: Array<{ alt?: string }>;
+    };
+  };
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(0);
@@ -55,7 +60,7 @@ export default function GullfossGallery() {
   const closeLightbox = () => setIsLightboxOpen(false);
 
   const getCaption = (index: number) => {
-    return t(`captions.${index}`);
+    return messages.gallery?.photos?.[index]?.alt || messages.gallery?.captions?.[index] || `Gullfoss ${index + 1}`;
   };
 
   return (
