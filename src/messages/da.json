@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Gullfoss Guide 2026: Parkeringsafgift, kort og bedste ruter",
-    "description": "Planlæg dit besøg ved Gullfoss med opdaterede oplysninger om parkeringsafgift, parkeringsområder, kort, åbningstider, køreruter fra Reykjavik og praktiske tips for 2026."
+    "title": "Gullfoss guide: gratis parkering, vandrestier og visitor center",
+    "description": "Planlæg dit besøg ved Gullfoss med opdaterede oplysninger om gratis parkering, visitor center, adgang for kørestole og hundevenlige stier. Åbent døgnet rundt."
   },
   "hero": {
     "title": "Gullfoss Naturreservat",
@@ -65,9 +65,9 @@
     "fortressDesc": "Åbent hele døgnet alle ugens dage med fri adgang til udsigtsområderne",
     "fortressTime": "24 timer",
     "cafe": "Gullfoss Café og visitor center",
-    "cafeDesc": "Mandag - søndag (sommer: juni til august)",
-    "cafeTime": "09:00-20:00",
-    "tip": "Sommeren giver normalt den kraftigste vandføring. Om vinteren kræver glatte stier ekstra forsigtighed.",
+    "cafeDesc": "Aabningstiderne varierer efter saeson og dagens drift",
+    "cafeTime": "Varierer efter saeson",
+    "tip": "Naturreservatet og udsigtspunkterne er aabne dognets 24 timer. Om sommeren er vandfoeringen kraftigst, mens vinteren kan give isglatte stier og midlertidige lukninger af den nedre rute.",
     "summer": "Visitor center (sommer)",
     "summerTime": "09:00 - 20:00",
     "winter": "Visitor center (vinter)",
@@ -82,17 +82,17 @@
     "fortress": "Naturreservat og udsigt til vandfaldet",
     "free": "Gratis adgang",
     "fortressDesc": "Gullfoss og naturområdet omkring vandfaldet kan besøges uden entré.",
-    "catacombs": "Parkeringsafgift",
-    "catacombsDesc": "Der er et stort parkeringsområde ved stedet. Afgift gælder for personbiler og turistbusser.",
-    "catacombsNote": "Typisk omkring 750 ISK for personbiler (ca. 5 EUR). Handicapparkering er normalt gratis på markerede pladser.",
+    "catacombs": "Parkeringsinformation",
+    "catacombsDesc": "Både den oevre og den nedre parkeringsplads ved Gullfoss er i oejeblikket gratis for personbiler, turistbusser og handicapparkering.",
+    "catacombsNote": "Den oevre plads ligger ved visitor center, toiletter og cafe. Den nedre plads giver kortere gaafstand til de lave udsigtspunkter, men den nedre sti kan lukkes om vinteren ved is.",
     "garden": "Vandfaldsoplevelse og vandreruter",
     "gardenPrice": "Gratis",
-    "rosenborg": "Parkeringsafgift",
-    "adults": "Personbiler",
-    "adultsPrice": "750 ISK (ca. 5 EUR)",
-    "students": "Turistbusser",
-    "studentsPrice": "2.500 ISK (ca. 18 EUR)",
-    "under17": "Gæster med handicap",
+    "rosenborg": "Parkeringsstatus",
+    "adults": "Oevre parkeringsplads",
+    "adultsPrice": "Gratis",
+    "students": "Nedre parkeringsplads",
+    "studentsPrice": "Gratis",
+    "under17": "Handicapparkering",
     "under17Price": "Gratis",
     "card": "Guidede ture",
     "cardPrice": "Varierer efter udbyder"
@@ -137,7 +137,7 @@
     "title": "Anbefalet besøgsrute",
     "overview": "De fleste bruger 1 til 2 timer ved Gullfoss. Kører du hele Golden Circle, er det oplagt at besøge stedet efter Geysir og kombinere både de øvre og nedre udsigtspunkter.",
     "steps": [
-      "Parker på hovedparkeringsområdet og betal parkeringsafgiften, hvis den gælder for dit køretøj",
+      "Vaelg den oevre eller nedre parkeringsplads alt efter om du prioriterer faciliteter eller kortere gaafstand til vandfaldet",
       "Gå forbi visitor center for toiletter, information og opdateringer om stiernes forhold",
       "Begynd ved den øvre platform for det bedste overblik over vandfaldet og kløften",
       "Fortsæt ned ad den nedre sti for at komme tættere på vandet og mærke kraften fra fossen",
@@ -261,7 +261,7 @@
         "name": "Sara L.",
         "date": "januar 2026",
         "rating": 4,
-        "text": "Smukt vandfald og god adgang. Parkeringsafgiften virker rimelig i forhold til faciliteterne på stedet."
+        "text": "Smukt vandfald og let adgang. Det er en klar fordel, at både besøget og parkeringen er gratis."
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Leiðarvísir um Gullfoss 2026: Bílastæðagjald, kort og bestu leiðir",
-    "description": "Skipuleggðu ferð til Gullfoss með uppfærðum upplýsingum um bílastæðagjald, bílastæði, kort, opnunartíma, akstursleiðir frá Reykjavík og gagnleg ráð fyrir árið 2026."
+    "title": "Leiðarvísir um Gullfoss: ókeypis bílastæði, gönguleiðir og gestamiðstöð",
+    "description": "Skipuleggðu heimsókn til Gullfoss með upplýsingum um ókeypis bílastæði, gestamiðstöð, aðgengi fyrir hjólastóla og gönguleiðir þar sem hundar eru velkomnir. Opið allan sólarhringinn."
   },
   "hero": {
     "title": "Friðland við Gullfoss",
@@ -65,9 +65,9 @@
     "fortressDesc": "Opið allan sólarhringinn alla daga vikunnar, frír aðgangur að öllum útsýnissvæðum",
     "fortressTime": "24 tímar",
     "cafe": "Gullfosskaffi og gestamiðstöð",
-    "cafeDesc": "Mánudagur - sunnudagur (sumar: júní til ágúst)",
-    "cafeTime": "09:00-20:00",
-    "tip": "Sumarið býður yfirleitt upp á mesta vatnsmagn. Á veturna þarf að gæta varúðar vegna hálku á stígum.",
+    "cafeDesc": "Opnunartimar breytast eftir arstida og thjonustu a svaeðinu",
+    "cafeTime": "Breytilegt eftir arstida",
+    "tip": "Fridlandid og utsynissvaedin eru opin allan solarhringinn. Sumarið er vatnsmest, en a veturna þarf ad gaeta varuðar vegna halku og lokana a nedri leidum.",
     "summer": "Gestamiðstöð (sumar)",
     "summerTime": "09:00 - 20:00",
     "winter": "Gestamiðstöð (vetur)",
@@ -82,17 +82,17 @@
     "fortress": "Friðland og fossútsýni",
     "free": "Ókeypis aðgangur",
     "fortressDesc": "Gullfoss og friðlandið í kring eru opin án aðgangseyris.",
-    "catacombs": "Bílastæðagjald",
-    "catacombsDesc": "Stórt bílastæði er á svæðinu. Gjald er innheimt fyrir einkabíla og hópbíla.",
-    "catacombsNote": "Yfirleitt um 750 ISK fyrir einkabíla (u.þ.b. 5 EUR). Fatlaðir gestir geta lagt án gjalds á merktum stæðum.",
+    "catacombs": "Bilastaedaupplýsingar",
+    "catacombsDesc": "Bilastaedin efra og nedra megin vid Gullfoss eru um þessar mundir okeypis fyrir einkabila, ferdamannarutur og adgengileg stedi.",
+    "catacombsNote": "Efra bilastaedid er vid gestamidstod, salerni og kaffihus. Nedra bilastaedid er naer fossinum, en nedri stigurinn getur lokast yfir veturinn vegna halku.",
     "garden": "Fossaskoðun og gönguleiðir",
     "gardenPrice": "Ókeypis",
-    "rosenborg": "Bílastæðagjald",
-    "adults": "Einkabílar",
-    "adultsPrice": "750 ISK (u.þ.b. 5 EUR)",
-    "students": "Hópferðabílar",
-    "studentsPrice": "2.500 ISK (u.þ.b. 18 EUR)",
-    "under17": "Fatlaðir gestir",
+    "rosenborg": "Stada bilastaeda",
+    "adults": "Efra bilastaedi",
+    "adultsPrice": "Okeypis",
+    "students": "Nedra bilastaedi",
+    "studentsPrice": "Okeypis",
+    "under17": "Adgengileg stedi",
     "under17Price": "Ókeypis",
     "card": "Leiðsagðar ferðir",
     "cardPrice": "Breytilegt eftir ferðaskipuleggjanda"
@@ -137,7 +137,7 @@
     "title": "Ráðlögð heimsóknarleið",
     "overview": "Flestir verja 1 til 2 klukkustundum við Gullfoss. Ef þú ekur Gullna hringinn er eðlilegt að koma hingað eftir Geysi og nýta bæði efri og neðri útsýnissvæði.",
     "steps": [
-      "Leggðu á aðalbílastæðinu og greiddu bílastæðagjaldið ef við á",
+      "Leggdu a efra eđa nedra bilastaedi eftir thvi hvada gonguleid og thjonustu thu vilt nyta",
       "Farðu við í gestamiðstöðina fyrir salerni, upplýsingar og veðurstöðuna á stígum",
       "Byrjaðu á efra útsýnissvæðinu fyrir heildarsýn yfir fossinn og gljúfrið",
       "Farðu síðan niður neðri stíginn til að komast nær fossinum og finna betur kraft vatnsins",
@@ -261,7 +261,7 @@
         "name": "Sara L.",
         "date": "janúar 2026",
         "rating": 4,
-        "text": "Fallegur foss og auðvelt að heimsækja. Bílastæðagjaldið er hóflegt miðað við aðstöðu og aðgengi."
+        "text": "Fallegur foss og auðvelt að heimsækja. Það er stór kostur að bæði aðgangur og bílastæði eru ókeypis."
       }
     ]
   },

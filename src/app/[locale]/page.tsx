@@ -12,10 +12,11 @@ import GullfossRouteSection from '@/components/GullfossRouteSection';
 import GullfossPhotoSpotsSection from '@/components/GullfossPhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
 import GullfossGallery from '@/components/GullfossGallery';
+import GullfossFaqSection from '@/components/GullfossFaqSection';
 import GullfossReviews from '@/components/GullfossReviews';
 import GullfossMapEmbed from '@/components/GullfossMapEmbed';
 import Footer from '@/components/Footer';
-import { buildAlternates, getHomeSeo, getParkingFaq, siteConfig, type SiteLocale } from '@/lib/site';
+import { buildAlternates, getFaqTitle, getHomeSeo, getParkingFaq, siteConfig, type SiteLocale } from '@/lib/site';
 
 export async function generateMetadata({
   params,
@@ -47,6 +48,7 @@ export default async function HomePage({
   const { locale } = await params;
   setRequestLocale(locale);
   const faqItems = getParkingFaq(locale as SiteLocale);
+  const faqTitle = getFaqTitle(locale as SiteLocale);
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -79,6 +81,7 @@ export default async function HomePage({
         <GullfossRouteSection />
         <GullfossPhotoSpotsSection />
         <HotelsSection />
+        <GullfossFaqSection title={faqTitle} items={faqItems} />
         <GullfossGallery />
         <GullfossReviews />
         <GullfossMapEmbed />

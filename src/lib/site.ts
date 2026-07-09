@@ -30,25 +30,32 @@ const homeSeoByLocale: Record<
   }
 > = {
   en: {
-    title: 'Gullfoss Waterfall Visitor Guide 2026: Parking Fee, Map & Best Routes',
+    title: 'Gullfoss Waterfall Ultimate Guide (Free Parking, Hike & Visitor Info)',
     description:
-      'Plan your visit to Gullfoss Waterfall with current parking fees, parking layout, map, opening hours, driving routes from Reykjavik, and practical visitor tips for 2026.',
+      'Plan your visit to Gullfoss Nature Reserve in Iceland. Find essential info on free parking, visitor center facilities, wheelchair access, and dog-friendly hiking paths. Open 24/7.',
   },
   zh: {
-    title: 'Gullfoss 黄金瀑布游客指南 2026：停车费、地图与最佳路线',
+    title: '冰岛黄金瀑布 (Gullfoss) 游览指南：免费停车、徒步与游客中心',
     description:
-      '面向中文游客的 Gullfoss 黄金瀑布实用指南，整合 2026 停车费、停车场分区、地图、开放时间、雷克雅未克自驾路线与现场游览建议。',
+      '规划您的冰岛黄金瀑布自然保护区之旅。获取关于免费停车场、游客中心、无障碍通道及狗狗友好徒步路线的最新信息。全天24小时开放。',
   },
   is: {
-    title: 'Leidarvisir um Gullfoss 2026: Parkeringsgjald, kort og bestu leidar',
+    title: 'Gullfoss leidarvisir: okeypis bilastaedi, gonguleidir og gestathjonusta',
     description:
-      'Skipuleggdu ferd til Gullfoss med uppfaerdum upplysingum um parkeringargjald, parkeringarsvaedi, kort, opnunartima og bestar akstursleidar fra Reykjavik arid 2026.',
+      'Skipuleggdu heimsokn til Gullfoss med upplysingum um okeypis bilastaedi, gestamidstod, adgengi fyrir hjolastola og gonguleidir thar sem hundar eru velkomnir. Opið allan solarhringinn.',
   },
   da: {
-    title: 'Gullfoss Guide 2026: Parkeringsafgift, kort og bedste ruter',
+    title: 'Gullfoss guide: gratis parkering, vandrestier og visitor center',
     description:
-      'Planlag dit besog ved Gullfoss med opdaterede oplysninger om parkeringsafgift, parkeringsomrader, kort, abningstider og de bedste koreruter fra Reykjavik i 2026.',
+      'Planlaeg dit besog ved Gullfoss med opdaterede oplysninger om gratis parkering, visitor center, adgang for korestole og hundevenlige stier. Aabent dognets 24 timer.',
   },
+};
+
+const faqTitleByLocale: Record<SiteLocale, string> = {
+  en: 'Frequently Asked Questions',
+  zh: '常见问题',
+  is: 'Algengar spurningar',
+  da: 'Ofte stillede spørgsmål',
 };
 
 const parkingFaqByLocale: Record<
@@ -62,68 +69,88 @@ const parkingFaqByLocale: Record<
     {
       question: 'Is parking free at Gullfoss?',
       answer:
-        'No. Standard visitor parking for private cars is typically 750 ISK, while disabled visitors can use designated parking free of charge.',
+        'Yes. Parking at both the upper and lower Gullfoss car parks is currently free for private cars, tour buses, and accessible parking users.',
     },
     {
-      question: 'How much is the parking fee at Gullfoss?',
+      question: 'What are the opening hours for Gullfoss Nature Reserve?',
       answer:
-        'The commonly published fee is around 750 ISK for private cars and about 2,500 ISK for tour buses, though local policies can change.',
+        'The nature reserve and waterfall viewpoints are open 24 hours a day, year-round. The visitor center, restaurant, and shop follow seasonal opening hours.',
     },
     {
-      question: 'Where should I park at Gullfoss?',
+      question: 'Are there hiking trails and is the area dog-friendly?',
       answer:
-        'Most visitors use the main visitor parking area near the cafe and viewing paths, which provides the shortest walk to the upper viewpoints and visitor facilities.',
+        'Yes. Short maintained walking paths connect the parking areas and viewpoints, and dogs are generally welcome on a leash along the marked paths.',
+    },
+    {
+      question: 'Is Gullfoss part of a national park in Iceland?',
+      answer:
+        'No. Gullfoss is a designated nature reserve and one of the three core stops on the Golden Circle, usually visited together with Thingvellir National Park and the Geysir geothermal area.',
     },
   ],
   zh: [
     {
       question: 'Gullfoss 停车免费吗？',
       answer:
-        '通常不免费。普通私家车停车费一般为 750 ISK 左右，残障人士专用停车位通常可免费使用。',
+        '免费。Gullfoss 上下两个停车场目前对私家车、旅游巴士和无障碍停车位使用者均免费开放。',
     },
     {
-      question: 'Gullfoss 停车费多少钱？',
+      question: '黄金瀑布自然保护区的开放时间是？',
       answer:
-        '常见公开信息显示，私家车约为 750 ISK，旅游巴士约为 2,500 ISK，但现场政策可能调整。',
+        '黄金瀑布自然保护区和各观景区域全年 24 小时开放。游客中心、餐厅和商店则按季节调整营业时间。',
     },
     {
-      question: 'Gullfoss 应该停在哪个停车场？',
+      question: '景区周边有徒步路线吗？可以带宠物吗？',
       answer:
-        '大多数游客会使用靠近游客中心与观景步道的主停车区，这里前往上层观景点与配套设施的步行距离最短。',
+        '有。景区内设有维护良好的短途步道连接停车场与观景台，通常允许牵引宠物犬沿标识步道同行。',
+    },
+    {
+      question: '黄金瀑布属于冰岛国家公园吗？',
+      answer:
+        '不属于。Gullfoss 是独立的自然保护区，也是黄金圈三大核心景点之一，通常与辛格韦德利国家公园和 Geysir 地热区一同游览。',
     },
   ],
   is: [
     {
       question: 'Er okeypis ad leggja vid Gullfoss?',
       answer:
-        'Nei. Almennt parkeringargjald fyrir einkabila er yfirleitt um 750 ISK, en adgengileg stedi fyrir fatlada eru oft gjaldfrjals.',
+        'Ja. Baeði efra og nedra bilastaedið vid Gullfoss eru um þessar mundir okeypis fyrir einkabila, ferdamannarutur og adgengileg stedi.',
     },
     {
-      question: 'Hvad kostar parkering vid Gullfoss?',
+      question: 'Hver er opnunartimi Gullfoss?',
       answer:
-        'Algengt birt gjald er um 750 ISK fyrir einkabila og um 2.500 ISK fyrir ferdamannarutur, en reglur geta breyst.',
+        'Fridlandid og utsynissvaedin eru opin allan solarhringinn arid um kring. Gestamidstod, veitingasalur og verslun fylgja hins vegar arstidarbreytilegum opnunartimum.',
     },
     {
-      question: 'Hvar er best ad leggja vid Gullfoss?',
+      question: 'Eru gonguleidir og ma taka med hund?',
       answer:
-        'Flestir leggja a adalbilastaedinu vid gestamidstod og gonguleidir, thar sem styst er ad efri utsynispollum og thjonustu.',
+        'Ja. Stuttar og vel merktar gonguleidir tengja bilastaedin og utsynispallana, og almennt er leyfilegt ad vera med hund i taumi a merktum leidum.',
+    },
+    {
+      question: 'Er Gullfoss hluti af thjodgardi?',
+      answer:
+        'Nei. Gullfoss er skilgreint fridland og einn af thremur meginastodum Gullna hringsins, oft heimsott samhliða Thingvöllum og Geysi.',
     },
   ],
   da: [
     {
       question: 'Er parkering gratis ved Gullfoss?',
       answer:
-        'Nej. Normal parkering for private biler er typisk omkring 750 ISK, mens handicapparkering normalt kan bruges uden betaling.',
+        'Ja. Både den øvre og den nedre parkeringsplads ved Gullfoss er i øjeblikket gratis for personbiler, turistbusser og handicapparkering.',
     },
     {
-      question: 'Hvor meget koster parkering ved Gullfoss?',
+      question: 'Hvad er åbningstiderne for Gullfoss Naturreservat?',
       answer:
-        'Den mest almindeligt offentliggjorte pris er cirka 750 ISK for private biler og omkring 2.500 ISK for turistbusser, men lokale regler kan aendres.',
+        'Naturreservatet og udsigtspunkterne er åbne 24 timer i døgnet hele året. Visitor center, restaurant og butik følger derimod sæsonbestemte åbningstider.',
     },
     {
-      question: 'Hvor skal man parkere ved Gullfoss?',
+      question: 'Er der vandrestier, og er området hundevenligt?',
       answer:
-        'De fleste bruger hovedparkeringen ved visitor center og stierne, fordi den giver den korteste gangafstand til de ovre udsigtspunkter og faciliteterne.',
+        'Ja. Korte, velholdte stier forbinder parkeringsområderne med udsigtspunkterne, og hunde er normalt velkomne i snor på de markerede ruter.',
+    },
+    {
+      question: 'Er Gullfoss en del af en nationalpark på Island?',
+      answer:
+        'Nej. Gullfoss er et selvstændigt naturreservat og et af de tre hovedstop på Golden Circle, ofte besøgt sammen med Thingvellir National Park og Geysir-området.',
     },
   ],
 };
@@ -168,6 +195,10 @@ export function buildAlternates(pathname = '') {
 
 export function getHomeSeo(locale: SiteLocale) {
   return homeSeoByLocale[locale] ?? homeSeoByLocale.en;
+}
+
+export function getFaqTitle(locale: SiteLocale) {
+  return faqTitleByLocale[locale] ?? faqTitleByLocale.en;
 }
 
 export function getParkingFaq(locale: SiteLocale) {

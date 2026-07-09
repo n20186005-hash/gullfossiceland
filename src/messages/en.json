@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Gullfoss Waterfall Visitor Guide 2026: Parking Fee, Map & Best Routes",
-    "description": "Plan your visit to Gullfoss Waterfall with current parking fees, parking layout, map, opening hours, driving routes from Reykjavik, and practical visitor tips for 2026."
+    "title": "Gullfoss Waterfall Ultimate Guide (Free Parking, Hike & Visitor Info)",
+    "description": "Plan your visit to Gullfoss Nature Reserve in Iceland. Find essential info on free parking, visitor center facilities, wheelchair access, and dog-friendly hiking paths. Open 24/7."
   },
   "hero": {
     "title": "Gullfoss Nature Reserve",
@@ -65,9 +65,9 @@
     "fortressDesc": "Open 24 hours, 7 days a week, free access to all viewing areas",
     "fortressTime": "24 Hours",
     "cafe": "Gullfoss Café & Visitor Center",
-    "cafeDesc": "Monday - Sunday (Summer: June-August)",
-    "cafeTime": "09:00-20:00",
-    "tip": "Summer offers the most impressive water flow. Winter visits require caution due to icy paths.",
+    "cafeDesc": "Seasonal opening hours apply and may change throughout the year",
+    "cafeTime": "Varies by season",
+    "tip": "The nature reserve is open 24/7. Summer brings the strongest water flow, while winter visits require caution on icy paths and occasional lower-trail closures.",
     "summer": "Visitor Center (Summer)",
     "summerTime": "09:00 - 20:00",
     "winter": "Visitor Center (Winter)",
@@ -82,17 +82,17 @@
     "fortress": "Nature Reserve & Waterfall Viewing",
     "free": "Free Admission",
     "fortressDesc": "Gullfoss waterfall and surrounding nature reserve are free to visit, no ticket required.",
-    "catacombs": "Parking Fee",
-    "catacombsDesc": "Large parking area available. Parking fee applies for cars and tour buses.",
-    "catacombsNote": "Approximately 750 ISK for cars (about 5 EUR), free for disabled visitors.",
+    "catacombs": "Parking Information",
+    "catacombsDesc": "Both the upper and lower parking lots at Gullfoss are currently free for private cars, tour buses, and accessible parking users.",
+    "catacombsNote": "The upper lot sits beside the visitor center, restrooms, and cafe. The lower lot gives a shorter walk to the lower viewing area, though the lower path may close in icy winter conditions.",
     "garden": "Waterfall Viewing & Hiking",
     "gardenPrice": "Free",
-    "rosenborg": "Parking Fee",
-    "adults": "Cars",
-    "adultsPrice": "750 ISK (≈5 EUR)",
-    "students": "Tour Buses",
-    "studentsPrice": "2,500 ISK (≈18 EUR)",
-    "under17": "Disabled Visitors",
+    "rosenborg": "Parking Status",
+    "adults": "Upper Parking Lot",
+    "adultsPrice": "Free",
+    "students": "Lower Parking Lot",
+    "studentsPrice": "Free",
+    "under17": "Accessible Parking",
     "under17Price": "Free",
     "card": "Guided Tours",
     "cardPrice": "Varies by tour operator"
@@ -137,7 +137,7 @@
     "title": "Recommended Route",
     "overview": "A half-day or full-day trip is recommended. If doing the Golden Circle, visit Gullfoss after Geysir (about 10 minutes drive). Spend 1-2 hours at the site to fully experience the waterfall from different viewpoints.",
     "steps": [
-      "Arrive at the parking lot: Pay parking fee (750 ISK for cars)",
+      "Arrive at the parking lot: Choose the upper lot for facilities or the lower lot for a shorter walk to the waterfall",
       "Visit the visitor center: Use restrooms and get information about walking paths",
       "Upper viewpoint: Walk to the upper platform for a panoramic view of the waterfall",
       "Lower pathway: Descend to the lower walking path for a closer view (can get wet from mist)",
@@ -318,7 +318,7 @@
         "name": "Sarah L.",
         "date": "January 2026",
         "rating": 4,
-        "text": "Spectacular waterfall and it's free! The parking fee is reasonable. Go early to avoid the tour bus crowds."
+        "text": "Spectacular waterfall and completely free to visit, including parking. Go early to avoid the tour bus crowds."
       }
     ]
   },
