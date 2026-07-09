@@ -53,6 +53,9 @@ export default async function LocaleLayout({
 
   setRequestLocale(locale);
   const messages = await getMessages();
+  // #region debug-point D:layout-order
+  fetch('http://127.0.0.1:7777/event', { method: 'POST', body: JSON.stringify({ sessionId: 'client-side-exception', runId: 'post-fix', hypothesisId: 'D', location: 'src/app/[locale]/layout.tsx', msg: '[DEBUG] Locale layout renders GoogleAnalytics inside NextIntlClientProvider', data: { locale, gaOutsideProvider: false }, ts: Date.now() }) }).catch(() => {});
+  // #endregion
 
   return (
     <html lang={getHtmlLang(locale)} suppressHydrationWarning>
@@ -73,10 +76,10 @@ export default async function LocaleLayout({
         />
       </head>
       <body className="min-h-screen">
-        <Suspense fallback={null}>
-          <GoogleAnalytics />
-        </Suspense>
         <NextIntlClientProvider messages={messages}>
+          <Suspense fallback={null}>
+            <GoogleAnalytics />
+          </Suspense>
           {children}
         </NextIntlClientProvider>
       </body>
